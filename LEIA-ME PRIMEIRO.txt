@@ -1,0 +1,15 @@
+ORQUESTRATOR — site offline (distrito + cinema, 06/09/2026)
+
+⚠️ NÃO abra o index.html com dois cliques (file:// quebra as rotas).
+
+O jeito certo:
+  1. Dê dois cliques em "ABRIR O SITE.command"
+     (na primeira vez o macOS pode pedir: clique direito → Abrir)
+  2. O navegador abre sozinho em http://localhost:8777
+
+O que há de novo:
+  • O DISTRITO do Orquestrator App: 9 páginas (hub + sala, enxame, painel,
+    groupchat, navegador, terminal, comunication, ecossistema), com modo
+    claro/escuro como o app real
+  • O cinema do App re-lapidado (malha do iaswarm, cortina, bell no finale)
+  • 4 filmes por rolagem + Mentor com modo escuro + HUB colorido

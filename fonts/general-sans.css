@@ -1,0 +1,30 @@
+/* General Sans */
+@font-face {
+  font-family: 'General Sans';
+  src: url('/fonts/gs-7.woff2') format('woff2'),
+       url('/fonts/gs-7.woff') format('woff'),
+       url('/fonts/gs-6.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('/fonts/gs-1.woff2') format('woff2'),
+       url('/fonts/gs-1.woff') format('woff'),
+       url('/fonts/gs-0.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('/fonts/gs-4.woff2') format('woff2'),
+       url('/fonts/gs-4.woff') format('woff'),
+       url('/fonts/gs-3.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+
+

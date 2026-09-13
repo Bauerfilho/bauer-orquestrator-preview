@@ -1,0 +1,10 @@
+{
+  "name": "Neonatologia Aula 1",
+  "short_name": "Neo Aula 1",
+  "description": "Mini plataforma local sobre classificação do recém-nascido e sífilis congênita.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7fbfa",
+  "theme_color": "#0f766e",
+  "icons": []
+}

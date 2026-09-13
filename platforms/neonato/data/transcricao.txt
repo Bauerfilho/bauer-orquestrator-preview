@@ -1,0 +1,1157 @@
+Transcrição de Neonatologia: Infecções
+
+Criado em May 24, 2026 às 04:27 PM por Summary AI
+https://link.summaryai.app/hk0f7s
+---
+
+Speaker A (00:00)
+É preso no CERC, então só no dia de crisma. Na verdade, não pode, porque só dentro da instituição que você não tem que, é, em cada instituição funciona a questão final, né, de se o bispo autorizou só então dentro das normas que pode ser, seja alguém que está precisando se casar e é, vamos dizer assim, de ir
+
+Speaker A (00:19)
+lá.
+
+Speaker B (00:20)
+Olá, tudo bem com você? Olha, a gente vai começar hoje um estudo de uma subespecialidade pediátrica, que é aquela subespecialidade que estuda a primeira fase, o primeiro momento da vida de uma criança.
+
+Speaker B (00:31)
+É a subespecialidade que estuda os recém-nascidos, é o que nós chamamos de neonatologia. Olha, esse teu estudo da neonatologia, ele vai ser dividido em duas etapas, em uma parte 1, uma parte 2, e agora eu vou te falar sobre uma parte que engloba ali classificação, alguns tipos especiais de infecções e até alguns dados sobre reanimação neonatal.
+
+Speaker B (00:51)
+A gente vai falar sobre tudo isso aqui nessa parte 1, depois você vai ver aí outras características do recém-nascido. Mas olha, para começar essa nossa conversa, como que a gente faz com uma criança quando ela nasce em relação a algumas classificações?
+
+Speaker B (01:04)
+Pô, o pediatra, quando ela recebe um bebê, o que que o pediatra quer fazer? Ele quer basicamente colocar esse bebê em algumas caixinhas de compartimentos para saber se ele veio adequado ali ao mundo dentro daquilo que a gente espera que ele possa se desenvolver melhor.
+
+Speaker B (01:17)
+Então, o primeiro passo que a gente faz com o recém-nascido, em geral, é realmente classificar esse recém-nascido. Pô, como assim classificar?
+
+Speaker B (01:25)
+Olha, a gente quer colocar ele em alguns parâmetros e, basicamente, você tem três parâmetros mais importantes para se atentar. O primeiro desses parâmetros é o que nós chamamos de idade gestacional e provavelmente é aquilo que você.
+
+Speaker A (01:38)
+É, eu acho que o meu.
+
+Speaker B (01:45)
+Já deve ter tido mais contato na tua vida mesmo. Idade gestacional, pô, ela fala sobre o quê?
+
+Speaker B (01:50)
+Ela fala sobre quanto tempo de vida aquela criança tinha, de tempo gestacional, de gestação, quando de fato ela veio ao mundo, quando ela saiu do útero da mãe. Então, o que você vai fazer aqui é obter um dado que pode ser um dado obstétrico, até ali por uma data da última menstruação, por um ultrassom obstétrico que vai
+
+Speaker B (02:06)
+te falar essa idade. Ou, trazendo aqui mais para a pediatria, a gente pode estimar isso aqui por algumas características ali do exame físico.
+
+Speaker B (02:14)
+Você olha algumas características da criança e, por meio de um método que nós chamamos de capurro ou até por um método mais complexo chamado de New Ballard, você pode obter esse dado de idade gestacional. Escuta isso que eu vou te falar, não é um dado tão importante, mas é um dado que vale a pena você ter ali,
+
+Speaker B (02:31)
+já ter ouvido falar uma vez. Esses métodos de capurro e de New Ballard, eles levam em consideração aspectos físicos, mas qual que é a diferença dos dois?
+
+Speaker B (02:39)
+O capurro é mais fácil de fazer, só que ele não é tão bom para. Para criança prematura.
+
+Speaker B (02:51)
+Existe uma certa faixa de prematuridade em que o capurro não distingue muito bem o que que é uma criança e outra criança em relação à idade. Então, para crianças prematuras, especialmente muito prematuras, essas crianças, elas vão se beneficiar mais do método de New Ballard para você fazer uma análise ali mesmo de qual idade gestacional ela deve ter.
+
+Speaker B (03:12)
+E olha, como que eu faço isso? O mais importante para você é saber números aqui.
+
+Speaker B (03:16)
+Então, eu quero que você se apegue principalmente em dois pontos de corte: um ponto de corte 42 e um ponto de corte 37. Pô, 42 e 37, o quê?
+
+Speaker B (03:27)
+Semanas. E olha como é fácil: toda criança que nascer com 42 semanas de idade gestacional ou mais é uma criança que eu vou chamar de pós-termo. Aqui no meio, toda criança que nascer, olha só, entre 37 semanas e entre 42 semanas é a criança que eu vou chamar de termo, ou seja, entre 37 semanas e 41 semanas
+
+Speaker B (03:49)
+e 6 dias, ela não chegou a completar 42 semanas. E do outro lado, eu tenho uma criança que pode nascer, olha só, abaixo de 37 semanas.
+
+Speaker B (03:58)
+Nesse caso, essa criança é o que eu vou chamar de quê? De pré-termo.
+
+Speaker B (04:01)
+É o que você conhece popularmente como prematuro. Então, essa classificação, ela é a que você vai usar mais frequentemente mesmo e ela é tão correta quanto ainda incompleta.
+
+Speaker B (04:13)
+Por que incompleta? Ora, se você olhar para esse bebê pré-termo, prematuro, não é tão certo você pegar todos os bebês prematuros, colocar ali dentro do mesmo saco e dizer que eles são iguais, não é certo.
+
+Speaker B (04:25)
+Poxa, pensa comigo: existe um tipo de prematuro que é um prematuro que faltava isso aqui para ele nascer, faltava pouquinho para ele chegar ao mundo. E faltava um prematuro, tinha um prematuro que faltava demais para ele vir ao mundo, faltavam várias, várias semanas.
+
+Speaker B (04:39)
+Essas crianças, elas não são iguais, essas crianças não têm riscos de complicações iguais. Então, eu preciso entender que aquela criança que faltava pouco para nascer é o que eu vou chamar de pré-termo tardio e a que faltava muito é o pré-termo extremo.
+
+Speaker B (04:52)
+Como que eu diferencio? Ora, aquela criança que nasceu com menos de 37 semanas, mas ela ainda nasceu, olha, com 34 semanas, essa é uma criança pré-termo tardio, ou seja, ela nasceu entre 34 semanas e 36 semanas e 6 dias.
+
+Speaker B (05:09)
+Por outro lado, aquela criança que, olha só, ela nasceu com menos de 28 semanas, caramba, faltava demais, faltavam muitas semanas, é a criança que eu chamo de pré-termo extremo. É importante fazer essa diferença?
+
+Speaker B (05:21)
+Claro que é. Eu não sei se você já teve a possibilidade de ver um pré-termo extremo ali na tua prática, mas eu te trouxe essa imagem para você entender do que eu estou te falando.
+
+Speaker B (05:30)
+Poxa, olha para esse bebê, olha o tamanho desse bebê em comparação com a mão de quem está examinando, às vezes ele é menor. Então, como que você acha que é o pulmão desse bebê?
+
+Speaker B (05:40)
+Como que você acha que são os órgãos desse bebê? Poxa, eles são rudimentais, eles são ainda menos desenvolvidos.
+
+Speaker B (05:46)
+Então, existem certas complicações, gravíssimas inclusive, que só vão acometer principalmente esse tipo de pré-termo, mas não outros pré-termos. Então, por isso que é importante essa classificação.
+
+Speaker B (05:58)
+Então, essa é a primeira forma de classificar quanto a tempo, mas eu tenho uma outra forma de classificar que já leva em relação peso. Você vai receber a criança, vai colocar a criança numa balança e vai obter um dado numérico.
+
+Speaker B (06:10)
+E aqui eu quero que você se apegue em principalmente três pontos de corte: o ponto de 2.500, 1.500 e 1.000 gramas, o peso que você obteve. Olha como é fácil: toda criança que nasceu aqui, ó, com menos de 1.000, de 2.500 gramas, mas ainda num valor até 1.500 gramas, é a criança que eu chamo de baixo peso.
+
+Speaker B (06:31)
+Ou seja, ela nasceu com 2.499 gramas até um valor de 1.500 gramas. Já a criança que nasceu com menos de 1.500 gramas, mas até um valor de 1.000 gramas, é a criança que eu chamo de muito baixo peso, ou seja, de 1.499 gramas até 1.000 gramas.
+
+Speaker B (06:49)
+Estou te falando isso detalhadamente para você não se confundir nessa linha de corte. E a criança que nasceu aqui, ó, com menos de 1.000 gramas, a criança que nasceu com menos de 1 quilo de bebê, é aquele que eu vou chamar de extremo baixo peso.
+
+Speaker B (07:03)
+É assim que a gente classifica. Te contextualizando isso aqui, tenta puxar da tua memória: onde que você viu uma classificação que a gente usa esses valores aqui objetivamente na pediatria?
+
+Speaker B (07:14)
+Poxa, a gente usa isso aqui muito para fazer suplementação de ferro, lembra disso? O bebezinho com risco de anemia ferropriva, quando a gente vai fazer aquela quantidade de miligrama por quilo dia de ferro, a gente usa exatamente isso aqui para saber como que vai fazer de quantidade.
+
+Speaker B (07:30)
+Claro, hoje em dia, com atualizações, isso aqui a gente usa para quem? Para o prematuro, usa para o bebê com baixo peso.
+
+Speaker B (07:36)
+O bebê é a termo, o bebê é adequado para a idade gestacional, a gente usa uma classificação diferente disso aqui, mas esses valores são importantes para profilaxia de anemia ferropriva no prematuro e baixo peso. Agora, deixa eu te contextualizar em um outro parâmetro também.
+
+Speaker B (07:51)
+Olha, quando eu tenho um bebê que está aqui nessa faixa, ó, ele está com menos de 2.500 gramas, mas ainda até 1.500 gramas, o bebê de baixo peso, esse é um bebê que ele pode ter vindo ao mundo a termo ou ele pode ter vindo ao mundo pré-termo, tranquilamente ele pode. Por exemplo, um bebê de 2.400 gramas,
+
+Speaker B (08:08)
+ele pode ser pré-termo ou um bebê a termo. Só que a partir de determinado nível de baixo peso, não tem como eu ter um bebê a termo, não tem como.
+
+Speaker B (08:17)
+Então, toda criança que nasceu, olha, com menos de 2.500 gramas, é uma criança que eu vou dizer que ela vai ser pré-termo. Sim, basta a criança ela ser uma criança de muito baixo peso, pelo menos, para eu saber que ela vai ser um prematuro.
+
+Speaker B (08:30)
+Então, não precisa a tua questão te dizer por escrito que é um prematuro se ela te disser que é uma criança com menos de 1.500 gramas, seja capaz de fazer essa correlação. E daqui a gente consegue tirar até uma outra informação importante.
+
+Speaker B (08:43)
+Poxa, você lembra que eu te falei de um tal de pré-termo extremo agora há pouco? Olha, essas crianças que nasceram com menos de 28 semanas, certamente, certamente, serão crianças que vão ser, ó, crianças de extremo baixo peso, serão crianças com menos de 1.000 gramas.
+
+Speaker B (08:56)
+Por quê? Porque é exatamente com 28 semanas que os bebês, em geral, atingem esse peso de 1.000 gramas.
+
+Speaker B (09:03)
+Então, abaixo dessa idade, eles devem ser crianças de extremo baixo peso. Saiba, saiba, seja capaz de fazer essa diferença.
+
+Speaker B (09:10)
+Então, é assim que a gente classifica uma criança quanto ao peso. E agora que você já viu uma classificação de idade e uma classificação de peso, o que que a gente faz?
+
+Speaker B (09:19)
+Nós estabelecemos um comparativo, nós fazemos a idade pelo peso e quando na pediatria a gente compara dois parâmetros, poxa, a gente sempre gosta de usar o quê? Gráfico.
+
+Speaker B (09:29)
+Pediatra ama gráfico. Então, eu queria te chamar atenção nesse gráfico para um aspecto: as curvas de normalidade que nós consideramos aqui são as curvas superior, curva vermelha superior e a curva vermelha inferior.
+
+Speaker B (09:42)
+Tudo que estiver entre essas duas curvas eu chamo de normal. Qual que é o detalhe?
+
+Speaker B (09:47)
+Aqui na neonatologia, olha só, a curva vermelha superior, ela é a curva que eu vou chamar de percentil 90, percentil 90. E a curva vermelha de baixo é a curva do percentil 10.
+
+Speaker B (10:02)
+Por que que eu estou te chamando atenção para isso? Porque a classificação de uma criança maior, de um paciente pediátrico quanto à nutrição, você vai ver que ela classifica quanto a outros valores, ela leva em consideração o percentil 97 e o percentil 3.
+
+Speaker B (10:15)
+Então, se você aplicar esses valores, 97 e 3, aqui num recém-nascido, você vai errar. Então, sempre lembra: recém-nascido, as curvas de normalidade são do p90 e do p10, beleza?
+
+Speaker B (10:27)
+p90 e p10. E daqui a gente consegue ter um dado muito objetivo, tá?
+
+Speaker B (10:32)
+Não é difícil. Toda criança que estiver, ó, acima do percentil 90, acima do percentil 90, é a criança que eu vou dizer que ela é o quê?
+
+Speaker B (10:39)
+Que ela é grande para a idade gestacional, ele é um bebê gig acima do p90. Agora, se é uma criança que nasceu aqui, olha, entre o percentil 90 e o percentil 10, dentro desse intervalo de curva, ou seja, aqui, ó, dentro dessa faixa, eu vou dizer que essa é uma criança aig ou adequada para a idade gestacional.
+
+Speaker B (11:00)
+E quando eu tiver uma criança que está aqui, ó, abaixo da curva do p10, aqui abaixo, é uma criança que eu vou dizer que ela é pig, ela é pequena para a idade gestacional. Então, fazendo essa análise gráfica, você consegue entender que tudo que eu quero normal é aquilo que vai estar aqui, ó, entre essa curva 90
+
+Speaker B (11:16)
+e entre essa curva 10. E lógico que se eu tiver uma criança, eu espero que essa criança seja aig, é o que a gente quer, é o que a gente realmente espera para esse bebê.
+
+Speaker B (11:25)
+Qual que é o problema de eu ter um bebê que é gig e eu pig? Tem vários, vários.
+
+Speaker B (11:31)
+Um desses problemas é que esses bebês, eles têm um risco muito maior de fazer algumas complicações. Uma clássica complicação é a hipoglicemia, hipoglicemia.
+
+Speaker B (11:40)
+Agora, tem outro problema: um bebê que ele nasceu pig, ele é um bebê que ele foi pig por algum motivo. Então, é importante que você seja capaz de se perguntar: por quê?
+
+Speaker B (11:51)
+Por que razão esse bebê nasceu pequeno para a idade gestacional? Então, é importante você ficar atento com fatores de risco disso aqui e fatores de risco para que isso aqui tenha acontecido.
+
+Speaker B (12:01)
+É importante você ter essa, essa noção. Então, uma vez que você já viu como classificar o recém-nascido quanto a esses três parâmetros, eu quero te apresentar o nosso caso número um.
+
+Speaker B (12:10)
+O que que o nosso caso número um fala? Poxa, ele fala de um município chamado de Gericianã da Mata.
+
+Speaker B (12:15)
+Olha, Gericianã da Mata, ele é um pequeno povoado distante da capital, onde a principal atividade comercial é o cultivo de pitangas. No teu primeiro dia de trabalho, você conheceu Florinda Rosa, uma jovem moça de 20 anos, casada há cinco anos e que está na décima quarta semana de gestação.
+
+Speaker B (12:33)
+Os primeiros exames realizados na Florinda permitiram o diagnóstico, olha só, de sífilis. Sífilis é infecção.
+
+Speaker B (12:40)
+O primeiro VDRL que a Florinda fez, ele era um VDRL de 1 para 32 e ela foi tratada com, opa, 2.400.000 unidades de penicilina benzatina. Faz um primeiro favor para mim?
+
+Speaker B (12:53)
+Guarda bem esse valor: 2.400.000 unidades de benzatina. João Eucalipto, o filho da Florinda, ele nasceu com 36 semanas e 4 dias, lembra também desse valor.
+
+Speaker B (13:04)
+Nasceu com peso de nascimento de 1.900 e comprimento de 46 centímetros. Ele precisou receber atendimento na sala de parto porque estava hipotônico, estava em apneia e o exame licólico, o líquor do João Eucalipto, mostrou 40 células e 160 proteínas.
+
+Speaker B (13:20)
+Então, essa é a história do João Eucalipto. Então, a gente consegue perceber que ele foi ali exposto, ele teve contato, né, com uma mãe que teve infecção, ela teve uma sífilis.
+
+Speaker B (13:30)
+Então, eu estou preocupado com o quê aqui? Eu estou preocupado que essa infecção que a mãe teve possa ter passado para a criança.
+
+Speaker B (13:37)
+Então, eu quero começar esse aspecto aqui da aula te falando exatamente sobre as infecções no recém-nascido, te contextualizando sobre como que um recém-nascido, ele pode ter uma infecção. E para isso, eu trouxe uma imagem que vai ser super explicativa para você.
+
+Speaker B (13:50)
+Olha para essa imagem aqui e me acompanha. Para eu ter uma infecção no recém-nascido, eu posso ter duas formas de contração.
+
+Speaker B (13:57)
+Essa criança, ela pode ter contraído uma infecção, olha, por via transplacentária. Como que isso aconteceu?
+
+Speaker B (14:03)
+Aqui está a placenta, está? Te mostrando.
+
+Speaker B (14:05)
+E essa criança, ela pode ter contraído bactérias, vírus vindas da mãe e que passaram por aqui, ó, passaram pela placenta e tiveram contato com o bebê lá dentro do útero. Isso é o que eu chamo de transmissão transplacentária.
+
+Speaker B (14:18)
+Só que, olha, eu posso ter um outro tipo de transmissão de infecção para o bebê que ela não veio pela placenta, ela veio por aqui, ó, ela veio lá pelo colo do útero e ascendeu para dentro da cavidade uterina. Então, a mãe tinha bactéria no canal de parto, na sua região genital, essas bactérias subiram pelo colo uterino
+
+Speaker B (14:37)
+e infectaram a criança. Quando isso acontece, eu chamo de via ascendente ou até via intraparto, quando essa criança se infectou durante a passagem pelo canal de parto.
+
+Speaker B (14:48)
+São mecanismos diferentes, mas ainda dentro do útero da mãe. Agora, o recém-nascido, ele pode se infectar não só quando ele está dentro do útero, ele pode se infectar também, ó, depois que ele já nasceu.
+
+Speaker B (14:59)
+Então, no momento pós-natal, a criança, ela pode ter uma infecção por via comunitária, ela foi infectada ali no meio da comunidade, já em casa, ou até por uma infecção hospitalar ou infecção nosocomial em pacientes, por exemplo, que precisaram de unidade de terapia intensiva. Então, são dois mecanismos aqui de infecção no recém-nascido, sendo que desses dois mecanismos, dois
+
+Speaker B (15:20)
+podem acontecer entre o útero. Inclusive, só para te contextualizar também, nessa infecção comunitária aqui, a criança pode ser infectada até, ó, pela amamentação, tem algumas infecções que passam pelo leite materno.
+
+Speaker B (15:31)
+Então, eu estou te falando isso porque toda vida que você estiver diante de uma infecção que aconteceu por esse mecanismo aqui, ó, uma infecção por via transplacentária, você vai chamar esse mecanismo de uma infecção congênita. Sim, esquece isso aqui, esquece isso aqui.
+
+Speaker B (15:48)
+Toda vida que você tiver uma transmissão apenas transplacentária, você vai considerar isso uma infecção congênita. Então, eu quero te falar sobre essas infecções congênitas agora porque é sobre esses temas que nós vamos abordar.
+
+Speaker B (16:00)
+Então, conceitos gerais sobre a infecção congênita. Até te mencionei um deles.
+
+Speaker B (16:04)
+Ela é uma infecção que ela é transmitida por via hematogênica, por via transplacentária, ou seja, passa pelos vasos da placenta. E daqui você consegue até tirar uma informação muito interessante.
+
+Speaker B (16:15)
+Se ela passa pela placenta, se o microrganismo vem pela placenta, esse microrganismo, ele pode infectar a criança em diferentes estágios da gestação. Ele pode passar pela placenta no primeiro trimestre, no segundo trimestre, no terceiro trimestre, pode.
+
+Speaker B (16:29)
+Qual que é o momento mais provável disso acontecer? Na maioria das vezes, a infecção, ela vai acontecer principalmente lá no terceiro trimestre, principalmente no terceiro trimestre.
+
+Speaker B (16:39)
+E por que que isso é importante? Pô, isso é importante porque se o bebê se infecta ali pertinho, pertinho da hora dele nascer, na grande maioria das vezes, esses serão bebês completamente assintomáticos.
+
+Speaker B (16:50)
+Então, em relação à clínica de infecção congênita, na maioria das vezes, eles não têm sintomas. Quando eles têm sintomas, pô, na maioria das vezes são sintomas até inespecíficos.
+
+Speaker B (17:00)
+É o bebê que nasce icterico, é o bebê que nasce pequeno para a idade gestacional, nasce com hepatosplenomegalia, lesão de pele, é um bando de informação que parece desconexa. Então, até uma dica para tua prova: quando você estiver diante ali de um enunciado que te bota vários dados que parecem não se encaixar num bebezinho tão pequeno, pensa
+
+Speaker B (17:20)
+na infecção congênita como uma possibilidade. Agora, eu não vou conseguir fechar esse diagnóstico sempre pela clínica, tá?
+
+Speaker B (17:27)
+Não dá, é difícil, é inespecífico. Então, eu preciso que você seja capaz de, na tua questão, olhar para o teu enunciado e buscar uma informação mais específica, aquela informação de ouro que você pesca e você consegue direcionar para um diagnóstico.
+
+Speaker B (17:40)
+A gente vai trabalhar bem isso aqui na aula. E clínica não vai ser o teu principal parâmetro na prática, tá?
+
+Speaker B (17:47)
+Então, na tua prova, você acaba que muitas vezes também vai ter que fechar o diagnóstico por meio de dados complementares. Poxa, se eu estou te falando de infecção, como que a gente faz diagnóstico de infecção?
+
+Speaker B (17:59)
+Pô, a gente pode ter duas formas, né? A gente pode buscar o próprio bicho, a gente pode buscar o vírus, a gente pode buscar a bactéria numa secreção daquele paciente.
+
+Speaker B (18:08)
+E isso é até o mais fácil, né, de você fechar o diagnóstico. Se você viu o agente, está dado, está dado o diagnóstico.
+
+Speaker B (18:15)
+Só que você também pode buscar, olha só, uma reação do organismo ao bicho. Ou seja, o teu corpo, ele respondeu aquilo ali, aquela infecção, e produziu algumas substâncias.
+
+Speaker B (18:26)
+Nós gostamos muito de usar as sorologias como essa reação do organismo. O que que é sorologia?
+
+Speaker B (18:31)
+Sorologia é exatamente proteínas, tá? Anticorpos que vão te mostrar o anticorpo IgM ou o anticorpo IgG.
+
+Speaker B (18:38)
+Qual a diferença deles dois? Poxa, o IgM, a IgM, ela é uma molécula, olha só, grandona, grandona e que marca principalmente infecções recentes, infecções agudas.
+
+Speaker B (18:48)
+Então, quando eu tenho uma IgM positiva para uma infecção, daqui eu tenho duas informações importantes. Uma delas, geralmente isso está falando sobre infecção aguda, pouco tempo.
+
+Speaker B (18:59)
+E como ela é uma molécula muito grande que eu te falei, ela não consegue atravessar a placenta. Então, sempre que uma criança desenvolve IgM para uma infecção, poxa, eu tenho certeza que essa infecção, ela é da criança, porque foi a criança que produziu aquela IgM.
+
+Speaker B (19:13)
+Não tem risco de ser uma IgM materna que passou pela placenta, não tem esse risco. O problema é que a IgG não é bem assim.
+
+Speaker B (19:22)
+Eu quero que você tenha um cuidado porque a IgG, ela pode ter vindo da mãe, sim. A IgG, ela é uma molécula que marca infecções mais tardias, crônicas, mas ela é uma molécula, ó, pequenininha.
+
+Speaker B (19:33)
+Então, ela facilmente atravessa a placenta. Então, se você identificar uma IgG no bebê, caramba, essa IgG pode ter sido já desenvolvida por ele, sim, pode.
+
+Speaker B (19:43)
+Mas ela pode ser uma IgG que não é da criança, ela era da mãe e só atravessou a placenta e foi parar ali na corrente sanguínea do bebê. Então, você tem sempre que ter esse cuidado com a IgG.
+
+Speaker B (19:53)
+E aí, na prática, o que é que você faz? Pô, você vai acompanhar como é que está essa IgG.
+
+Speaker B (19:57)
+Se ela seguiu ali, ó, ascendendo, certamente devia ser uma IgG mesmo que o bebê produziu, da infecção dele. Agora, se é uma IgG que você achou ali e ela rapidamente cai, níveis decrescentes rápidos, aí não, né?
+
+Speaker B (20:10)
+Aí deve ser uma infecção só materna que passou a IgG para a criança, mas que não era de infecção ainda daquele bebê. Então, esses são conceitos fundamentais sobre infecções congênitas para você e existem, na prática, várias infecções congênitas.
+
+Speaker B (20:25)
+Na tua prova, na tua prova, existem principalmente cinco infecções congênitas que nós vamos abordar: sífilis, rubéola, varicela, toxocongênita, citomegalovirose congênita. Dessas, não tenha dúvida, não tenha dúvida.
+
+Speaker B (20:40)
+A grande infecção congênita da tua prova, aquela que vai demandar mais tempo do teu estudo e que está na maioria das questões, sem sombra de dúvidas, é a tal da sífilis congênita. Então, eu vou começar essa história de infecção te falando exatamente sobre ela.
+
+Speaker B (20:54)
+Olha, antes de falar mesmo sobre a infecção congênita, tenta resgatar uns conceitos aqui sobre sífilis. Poxa, a sífilis, ela é uma doença causada por uma bactéria, ela é causada por uma bactéria chamada de Treponema pálido.
+
+Speaker B (21:07)
+Essa é a bactéria da sífilis. Quando uma pessoa tem sífilis, ela pode desenvolver estágios dessa doença, lembra disso?
+
+Speaker B (21:15)
+Uma sífilis primária que tem mais cancro, uma sífilis secundária que já é uma progressão onde aquela pessoa desenvolve manifestações de pele, principalmente palmo plantares. Pode passar um tempo e entrar numa fase latente onde aquela pessoa não tem sintoma e algumas pessoas podem até evoluir para uma forma mais grave, uma forma que pega o sistema nervoso central, que
+
+Speaker B (21:37)
+pega até o sistema cardiovascular. É o que eu chamo de sífilis terciária.
+
+Speaker B (21:41)
+Então, essas são as fases que uma pessoa pode ter sífilis. Por que que eu estou te falando isso?
+
+Speaker B (21:46)
+Estou te falando isso porque a sífilis congênita, ela vai ser a transmissão hematogênica transplacentária do Treponema pálido. Só que olha o detalhe: a mãe pode passar essa infecção em qualquer estágio da doença dela, qualquer.
+
+Speaker B (22:00)
+Claro, claro, se essa mãe tiver uma infecção primária ou secundária, uma sífilis em maior atividade, poxa, eu tenho uma quantidade de Treponema muito mais alta. Então, numa infecção primária secundária materna, a taxa de transmissão, poxa, beira 100%.
+
+Speaker B (22:15)
+Só que qual é o grande ponto de atenção aqui? É que, olha, essa doença, ela também pode ser passada numa sífilis latente.
+
+Speaker B (22:23)
+Opa, cuidado! Uma gestante que não sabe que tem sífilis, que ela tem ali a doença, mas ela não sabe que tem sífilis porque ela não tem sintoma, ela pode infectar a criança.
+
+Speaker B (22:33)
+Então, é por isso, é por esse ponto que é tão, tão importante que você busque a sífilis no pré-natal e que você feche, feche esse diagnóstico ainda no pré-natal. Então, clinicamente, o teu paciente aqui vai se manifestar como?
+
+Speaker B (22:47)
+Na maioria das vezes, ele vai se apresentar completamente assintomático, claro. É uma infecção que aconteceu principalmente ali no final da gestação, no terceiro trimestre.
+
+Speaker B (22:56)
+Então, não deu muito tempo dele ter sintoma e quando ele tem sintoma, geralmente vão ser sintomas até bem inespecíficos. Em geral, é assim que uma criança com sífilis se manifesta.
+
+Speaker B (23:06)
+Só que, em relação à clínica dessa criança, poxa, eu posso ter algumas características interessantes. Tem algumas manifestações que elas são mais específicas da sífilis congênita.
+
+Speaker B (23:16)
+Sim, elas são mais específicas. E é exatamente aqui que um monte de questão bate para você.
+
+Speaker B (23:21)
+Então, antes de te falar essas manifestações, deixa eu te contextualizar aqui em dois períodos. Olha, a sífilis, ela pode ter um momento de manifestação que eu chamo de precoce e um momento que eu chamo de tardio.
+
+Speaker B (23:33)
+O que é isso? O Treponema, Treponema pálido, nos primeiros, principalmente, dois anos de doença, ele vai ficar ali, ó, indo para tecido, pele, mucosa, osso e fazendo inflamação, pô, inflamação, inflamação importante.
+
+Speaker B (23:47)
+É exatamente essa inflamação que o Treponema faz nesses primeiros dois anos de doença que eu vou dar o nome de manifestações precoces ou sífilis precoce. O que vai acontecer aqui é sintoma, claro, como eu estou te falando, inflamatório.
+
+Speaker B (24:00)
+Então, em mucosa e em pele, eu posso ter um bando de lesão, eu posso ter uma rinite. Uma rinite que, como tem Treponema erosando a mucosa nasal, é uma rinite que pode ser sanguinolenta.
+
+Speaker B (24:11)
+Tem muita secreção, mas tem sangue junto. Ainda na pele, eu posso ter uma lesão chamada de placa mucosa.
+
+Speaker B (24:19)
+O que que é placa mucosa? São lesões aqui, ó, principalmente no ângulo do lábio da criança.
+
+Speaker B (24:24)
+Você vai ver isso aqui numa foto que eu vou te mostrar. Além disso, eu posso ter o chamado congiloma plano, que é uma lesão periorificial, principalmente em região perianal no bebê.
+
+Speaker B (24:33)
+E que o detalhe disso aqui é que o congiloma plano não acontece só na sífilis congênita, ele acontece também numa sífilis secundária. Então, cuidado quando você estiver diante de um bebê que tem congiloma plano, porque ele pode ter uma sífilis congênita, mas liga ali uma pulga atrás da tua orelha para a possibilidade de uma infecção sexualmente transmissível,
+
+Speaker B (24:54)
+um abuso sexual. Um adulto com sífilis congênita, com sífilis secundária, ele pode ter um congiloma plano.
+
+Speaker B (25:01)
+Então, um bebê com isso aqui, você precisa ser capaz de se perguntar essa possibilidade. Mas, para nossa aula, é uma manifestação congênita.
+
+Speaker B (25:08)
+E ainda falando em pele, eu te falei aqui sobre um tal de pênfigo palmo plantar. Pô, o que que é pênfigo?
+
+Speaker B (25:15)
+Pênfigo, ela é lesão bolhosa, é bolha grande que eclode, faz descamação. Então, por mais que, em termos de lesão de pele, um exantema maculopapular, seja aquilo mais esperado na sífilis, é o tal do pênfigo palmo plantar, que é a manifestação mais específica de pele.
+
+Speaker B (25:32)
+Vou te mostrar também uma imagem disso aqui, você vai entender do que eu estou te falando. Então, isso aqui são as lesões, principalmente, cutâneo-mucosas agudas.
+
+Speaker B (25:40)
+Mas eu posso ter lesão que também acontece no osso, lesões ósseas. E do osso, tem duas principais lesões que eu preciso que você conheça.
+
+Speaker B (25:48)
+Uma é uma tal de periostite, que é o quê? Inflamação de periósteo, está no nome, inflamação de periósteo.
+
+Speaker B (25:55)
+Periósteo é aquela camada externa dos ossos e ela pode começar a inflamar, inflamar pelo Treponema e ele pode começar a fazer uma reação periosteal, uma nova formação de camadas ali naquele periósteo. E uma outra lesão óssea é essa tal de osteocondrite, que é uma inflamação que o Treponema faz, ó, principalmente perto das cartilagens de crescimento, da placa
+
+Speaker B (26:16)
+de crescimento. Essa osteocondrite, gente, ela dói.
+
+Speaker B (26:21)
+Dói, mas não dói pouco, não, ela dói para caramba. Então, isso aqui é o que causa uma das descrições mais clássicas da sífilis, que é a história de que o bebê tem uma dor excessiva à manipulação.
+
+Speaker B (26:32)
+Sim, é o enunciado que te fala: o bebê está sendo manipulado, tocado e ele está chorando descontroladamente. Ele chora inconsolavelmente.
+
+Speaker B (26:41)
+É o bebê com dor à manipulação. Daqui saem os dados mais importantes da clínica da sífilis, que é uma característica, uma postura que esse bebê assume quando ele está sentindo dor.
+
+Speaker B (26:52)
+Raciocina. Esse é um bebê que está sentindo dor, dor, dor. Esse bebê estava sentindo tanta dor que esse bebê, ele parou de se mexer.
+
+Speaker B (27:02)
+Parou de se mexer por quê? Porque ele estava doendo.
+
+Speaker B (27:05)
+Então, ele faz a chamada pseudoparalisia de Parot. Esse é um dado que as questões amam trazer para você.
+
+Speaker B (27:11)
+Então, toma cuidado que a pseudoparalisia de Parot, ela é uma pseudo, pseudoparalisia. Esse bebê não tem lesão de plexo braquial, essa lesão, esse bebê não tem fratura de clavícula, nada disso.
+
+Speaker B (27:23)
+Esse bebê tem uma pseudoparalisia para não sentir dor. É isso que você precisa saber de manifestação precoce.
+
+Speaker B (27:29)
+E aí eu te falei que ia mostrar a imagem? Está aqui, ó.
+
+Speaker B (27:32)
+Essa primeira imagem, ela traz duas características ótimas para você. Uma é a chamada rinite sérro-sanguinolenta, olha para cá.
+
+Speaker B (27:39)
+Você está vendo que esse bebê, ele tem uma secreção nasal aqui, ó, catarro, e tem sangue no nariz? É aquilo que eu te falei.
+
+Speaker B (27:46)
+Mas essa lesão, essa foto, ela ainda te mostra um outro aspecto. Ela te mostra aqui, ó, no ângulo da boca, aquelas placas mucosas que eu te falei.
+
+Speaker B (27:53)
+Então, aqui nessa imagem eu tenho duas manifestações agudas. Aqui eu já tenho aquela lesão cutânea que é o tal do pênfigo.
+
+Speaker B (28:01)
+Olha para a imagem. É uma pele, ó, que tem bolhas que descamam, que eclodem, grandes.
+
+Speaker B (28:06)
+Não é bolha pequena, é bolha grande. E nisso aqui eu preciso que você tenha cuidado porque essas são lesões extremamente infectantes, infectantes.
+
+Speaker B (28:15)
+Se você tocar na pele desse bebê, pô, sem luva, quem vai ficar doente é você. Então, todo bebê que tem essa manifestação aqui, até 48 horas de tratamento, ele precisa estar em isolamento de contato.
+
+Speaker B (28:28)
+Senão, ó, quem está ali ao redor pega sífilis também. Tirando isso, eu te falei que tinha lesão óssea, não foi isso?
+
+Speaker B (28:34)
+Então, aqui nessa imagem eu quero te chamar a atenção para a tal da periostite. Olha para essa imagem comigo.
+
+Speaker B (28:39)
+Você está vendo que aqui na borda do osso tem como se fosse uma dupla linha? Consegue ver isso?
+
+Speaker B (28:45)
+O que que é essa dupla linha? É exatamente o periósteo sendo inflamado pelo Treponema ali o tempo todo e ele formando novas camadas, ele se regenerando.
+
+Speaker B (28:53)
+É uma inflamação periosteal. Então, tudo isso que eu te falei até agora é manifestação precoce, é manifestação de inflamação do Treponema.
+
+Speaker B (29:02)
+Quando essa inflamação, ela vai, ó, cronificando, ela vai passando tempo, tempo, tempo, o que que vai acontecer? Eu vou começar a ter um aspecto meio que cicatricial, um aspecto meio que fibrosante até por esse excesso de inflamação.
+
+Speaker B (29:15)
+Então, tudo que é de manifestação num bebê com sífilis que aparece acima de dois anos, eu vou chamar de manifestação tardia. Tardia é sequela da manifestação precoce.
+
+Speaker B (29:26)
+Aquela inflamação toda no periósteo que eu te falei, ela pode fazer um aumento na região frontal, no osso chato, que é o que nós damos o nome de fronte olímpica. Quando essa inflamação do periósteo acontece não no osso chato, mas no osso longo, como a tíbia, por exemplo, ela pode causar um empenamento, um achatamento dessa tíbia que
+
+Speaker B (29:44)
+faz o formato que parece uma espada, uma espada chamada de sabre. A espada, o sabre, ela lembra um aspecto que, que é assim, ó, ela tem um, um, um aspecto dessa forma.
+
+Speaker B (29:55)
+Então, de fato, é uma espada que parece um sabre, é uma lesão que parece um sabre, a tíbia em sabre. Então, além disso aqui, eu posso ter lesões tardias que não são ósseas, mas que são super específicas, podem ter uma relação óssea, que é uma lesão dentária.
+
+Speaker B (30:12)
+O paciente, ele pode ter o chamado dente de Hutchinson e o chamado molar em amora. Você vai ver uma foto disso, vai ficar claro para você.
+
+Speaker B (30:19)
+Além disso, olha, lembra daquela rinite que eu te falei, aquela rinite sanguinolenta? O Treponema, ele pode fazer uma inflamação tão grande na região nasal que o osso, a base do osso nasal, ele despenca.
+
+Speaker B (30:30)
+O bebê, ele pode fazer o que a gente chama de nariz em cela. Por quê?
+
+Speaker B (30:33)
+O nariz, ele despencou. Então, ele ficou parecendo uma cela, uma cela de cavalo, nariz em cela.
+
+Speaker B (30:39)
+Pode ter mais coisa? Pode ter um monte de coisa.
+
+Speaker B (30:42)
+Você lembra que eu te falei daquela placa mucosa? Quando essa placa mucosa, ela fica cronificando, ela pode fazer a chamada ragad, que é como se fosse um aspecto fibrosante, um aspecto de ruga mesmo no rosto da criança.
+
+Speaker B (30:54)
+E eu posso ter mais coisa, tá? Eu posso ter, inclusive, uma alteração articular que eu chamo de articulação de Cluton ou Clutton, que é um aumento ali, uma, um excesso de aumento articular.
+
+Speaker B (31:04)
+Tudo isso aqui é manifestação tardia. E eu queria te mostrar algumas fotos que são muito características, começando por aquela foto do tal do nariz em cela.
+
+Speaker B (31:13)
+Olha aqui para a região entre os olhos desse paciente e vê, você consegue perceber que é uma região mais funda? Então, isso aqui é exatamente o que a gente chama de nariz em cela, é como se fosse um desabamento do osso nasal.
+
+Speaker B (31:25)
+Lembra que eu te falei de uma lesão óssea? Então, o que eu quero te mostrar aqui nessa imagem é que na tíbia desse paciente ocorreu uma inflamação tão grande que essa tíbia, olha, ela empenou.
+
+Speaker B (31:36)
+Então, ela está adquirindo um formato de sabre, aquela espada que eu te mostrei, e essa é chamada tíbia em sabre. Lembra que eu te falei de uma alteração dentária?
+
+Speaker B (31:45)
+Então, aqui eu estou te mostrando o chamado dente de Hutchinson. Ele é um dente, olha, que ele tem um suco, ele faz como se fosse uma erosão aqui na parte inferior.
+
+Speaker B (31:53)
+É o dente de Hutchinson. E aqui embaixo eu estou te mostrando o molar em amora.
+
+Speaker B (31:58)
+Amora por quê? Porque parece uma amora, amora cheia de bolinha.
+
+Speaker B (32:01)
+Então, o que a gente chama de molar em amora é esse excesso aqui, ó, de cúspides no dente. Cúspides são essas proeminências aqui.
+
+Speaker B (32:09)
+Então, quando é o paciente com sífilis, ele tem várias, várias dessas cúspides e é o que a gente chama de molar em amora. Então, o que eu te falei até aqui foi manifestação clínica.
+
+Speaker B (32:20)
+A prática. Não é assim que teu paciente vai se apresentar.
+
+Speaker B (32:23)
+Não é, eu te falei, a maioria nasce assintomático. É importante que você conheça isso como informação para enunciado de prova.
+
+Speaker B (32:30)
+Só que, na prática, o teu paciente vai nascer completamente assintomático na maioria das vezes e você vai ter que trabalhar a investigação desse recém-nascido não por sintoma, mas por causa de um dado do pré-natal. É o obstetra que vai te falar: "Ô pediatra, médico, você tem uma mãe que teve sífilis na gestação, eu identifiquei.
+
+Speaker B (32:48)
+Então, fique atento nessa criança, investigue essa criança." E aí existe um grande exame da sífilis, um grande exame, que é o chamado VDRL. VDRL.
+
+Speaker B (32:58)
+Ele é um exame que eu vou fazer para todos os pacientes que eu suspeito que têm sífilis. E esse é um exame que eu chamo ele também de um teste, olha, não treponêmico.
+
+Speaker B (33:07)
+Ele não é um teste que busca ali, de fato, ver o Treponema, não é. Ele busca ver uma reação dos tecidos à presença do Treponema.
+
+Speaker B (33:15)
+Ele busca ver o que é que o teu tecido está ali sendo inflamado pelo Treponema. Isso é importante para caramba.
+
+Speaker B (33:22)
+Te contextualizando essa história de não treponêmico, existem testes na sífilis que são testes treponêmicos. Talvez você já tenha ouvido falar de um tal de FTA-BS, teste rápido.
+
+Speaker B (33:32)
+Esses testes treponêmicos não servem muito aqui para essa fase, não. Eles só vão ser úteis lá para depois de 18 meses de vida.
+
+Speaker B (33:41)
+Então, aqui nessa fase de investigação é teste não treponêmico, VDRL. Esse VDRL, ele vai ser coletado no sangue periférico do bebê.
+
+Speaker B (33:49)
+Toma cuidado com isso, tá? Não é para coletar VDRL de sangue do cordão, não é.
+
+Speaker B (33:55)
+Sangue de cordão umbilical tem mistura de sangue do bebê e da mãe. Então, eu quero ver um VDRL exclusivo da criança, do sangue dela.
+
+Speaker B (34:02)
+E olha por que ele é importante. Como esse é um exame que mede inflamação tecidual pelo Treponema, ele é um teste que me dá uma informação exclusiva sobre atividade de doença.
+
+Speaker B (34:13)
+Ou seja, um VDRL em títulos maiores é um VDRL que marca uma doença muito mais intensa. Um VDRL menor, ele marca uma doença menos intensa, fundamental.
+
+Speaker B (34:24)
+Então, quando você pede um VDRL, você vai obter ali, inicialmente, um resultado qualitativo, pô, VDRL reagente ou não reagente. E quando você tem um VDRL que é reagente, você vai obter ali um dado que já é mais quantitativo.
+
+Speaker B (34:37)
+Deixa eu te explicar essa história. Você, inicialmente, ó, você vai ter um resultado que a gente chama de 1 para 2.
+
+Speaker B (34:43)
+É a primeira forma de análise do VDRL. Você colocou a amostra de sangue da criança, olhou, e se você identificou que tinha muita reação treponêmica ali, você vai dizer que ele é positivo ou reagente 1 para 2.
+
+Speaker B (34:55)
+O que é que você segue fazendo? Você vai fazendo, ó, diluições a cada amostra que você vai olhando.
+
+Speaker B (35:01)
+Então, olhei numa amostra um pouquinho mais diluída e ainda vi que tinha, de fato, muito anticorpo contra o Treponema ali. O que é que você vai ver?
+
+Speaker B (35:10)
+Você vai dizer que ele é reagente 1 para 4. O que é que você continua fazendo?
+
+Speaker B (35:14)
+Você continua diluindo? Se numa amostra diluída 1 para 8 você ainda viu muita reação inflamatória pelo Treponema ali, você vai dizer que ele é reagente 1 para 8.
+
+Speaker B (35:23)
+Se você diluiu novamente e no 1 para 16 você não viu mais nada ali de reação inflamatória treponêmica, você vai dizer que ele é um teste que é não reagente no 1 para 16. Então, ele vai ser reagente na última análise que você viu e que tinha inflamação treponêmica, que é 1 para 8.
+
+Speaker B (35:40)
+Essa é a lógica. Ou seja, daqui eu preciso que você seja capaz de entender que se eu identifico uma alteração numa amostra muito diluída, é porque eu tenho o quê?
+
+Speaker B (35:52)
+Eu tenho muita inflamação. Então, se eu sou capaz de identificar um VDRL positivo 1 para 64, uma amostra mega, mega, mega diluída, se eu ainda vejo alteração aqui, é porque eu tenho um paciente com uma sífilis muito mais intensa do que um paciente que tem uma alteração, por exemplo, apenas 1 para 4.
+
+Speaker B (36:09)
+Se eu fui capaz de ver muito anticorpo numa amostra muito diluída, é porque tem muito mais anticorpo presente ali. Essa é a lógica.
+
+Speaker B (36:16)
+Pois bem. Esse é um exame que eu peço para todos os pacientes.
+
+Speaker B (36:21)
+Só que para alguns pacientes não é só isso que eu vou pedir. Tem paciente que eu tenho que pedir mais coisa.
+
+Speaker B (36:26)
+Então, para alguns pacientes, ou seja, aqueles pacientes que eu defini que é um caso já de sífilis congênita, vou já te falar quem que são. Nesses casos eu preciso pedir hemograma, preciso pedir radiografia de ossos longos, preciso pedir líquor.
+
+Speaker B (36:40)
+São exames obrigatórios, tá? Tem mais coisa?
+
+Speaker B (36:43)
+Tem mais coisa. Posso pedir glicemia?
+
+Speaker B (36:45)
+Posso pedir outros exames? Posso.
+
+Speaker B (36:47)
+Obrigatório são esses exames aqui. Então, uma vez que eu fiz essa avaliação no meu paciente, com base no resultado que eu obtive, eu vou ter que definir o tratamento dessa criança e esse é o grande ponto para a tua prova.
+
+Speaker B (37:01)
+A maioria das tuas questões cobra exatamente tratamento. Então, na tua apostila, a gente colocou exatamente essa tabela, esse fluxograma, para você entender como que é a linearidade mesmo, ó, desse tratamento da sífilis.
+
+Speaker B (37:14)
+Qual que é o cuidado que eu quero te pedir? Eu não quero que você olhe para essa tabela agora e destrinche ela, não, nem dá.
+
+Speaker B (37:19)
+O que eu quero que você me prometa é que toda questão que você fizer de sífilis congênita, você não vai ler rapidamente o enunciado e vai tentar começar, ó, a tua análise aqui pelo final do gráfico. Não faça isso.
+
+Speaker B (37:31)
+Às vezes a gente tenta se antecipar e busca ver uma informação no enunciado, já se sente seguro e quer terminar a questão já pelo dado mais objetivo. Não faça isso.
+
+Speaker B (37:41)
+Essa é a maior taxa de erro aqui. Sempre numa questão de sífilis, pegue os dados que você obteve e siga uma sequência lógica de cima a baixo nesse fluxograma.
+
+Speaker B (37:51)
+Vá trabalhando essa ideia fazendo as questões. Então, diante desse tratamento, você seguindo bem o fluxograma, invariavelmente, invariavelmente, o teu ponto inicial de análise vai se determinar o quê?
+
+Speaker B (38:03)
+Vai se determinar, em primeiro lugar, como foi o tratamento da mãe, como foi que a gestante tratou. Esse é o primeiro passo, essa é a pedra fundamental aqui na sífilis.
+
+Speaker B (38:13)
+Pensa, uma gestante, ela pode ter tido sífilis e ela pode não ter recebido tratamento nenhum, ou ela pode ter recebido algum tratamento. Esse tratamento, ele pode ter sido feito errado, inadequado, ou ele pode ter sido feito de forma adequada.
+
+Speaker B (38:29)
+O que a gente quer buscar é exatamente quem que tratou adequado para a gente saber se, de fato, a criança também pode ter sido tratada. A mãe tratou certo, pode ser que o bebê tenha sido tratado também.
+
+Speaker B (38:40)
+Então, para definir um tratamento adequado, eu preciso, olha, de três critérios obrigatórios presentes. Quais são?
+
+Speaker B (38:47)
+O primeiro desses critérios é que o tratamento tem que ter sido feito com a penicilina benzatina. "Ah, tem que ser a benzatina?" Tem que ser.
+
+Speaker B (38:55)
+Pô, talvez você já tenha ouvido falar que ceftriaxona trata sífilis, que outras medicações tratam sífilis. É verdade, tratam a mãe.
+
+Speaker B (39:03)
+Mas eu quero que não só a mãe seja tratada, eu quero que ela seja tratada e o bebê também. Então, para que eu garanta que teve passagem placentária da medicação, do tratamento, tem que ter sido feito com a penicilina benzatina, tem que ter sido feito.
+
+Speaker B (39:16)
+Então, esse é o primeiro ponto: tem que ser a benzatina. Não basta isso.
+
+Speaker B (39:21)
+Essa penicilina, ela tem que ter sido feita de forma adequada para o estágio da sífilis da mãe, tanto em dose quanto em intervalo. Deixa eu te explicar isso.
+
+Speaker B (39:30)
+Eu comecei falando de sífilis, te contando sobre aqueles estágios, exatamente para te contextualizar aqui. Olha, uma gestante que teve uma sífilis primária, secundária ou até uma sífilis latente precoce, até ali um ano recente, essa é uma gestante que pode receber a penicilina benzatina numa dose única.
+
+Speaker B (39:48)
+Faz uma dose única, 2.400.000 unidades intramuscular, está resolvido. Só que, uma gestante que teve uma sífilis latente tardia, por maior que um ano, ou aquela gestante que é muito mais comum, teve uma sífilis que eu chamo de duração ignorada ou indeterminada, por esse caso não adianta você fazer só uma dose, não.
+
+Speaker B (40:09)
+Eu tenho que fazer três doses, três doses, e o intervalo entre cada uma dessas doses tem que ser ali de sete a nove dias. Por que essa é a situação mais comum?
+
+Speaker B (40:19)
+Porque é o mais típico. É você descobrir no pré-natal que uma gestante tem sífilis e ela não faz ideia de quando que ela foi contaminada.
+
+Speaker B (40:26)
+É a duração ignorada: três doses intramuscular, intervalo de sete a nove dias. Então, benzatina, adequado para a fase, mas não basta isso.
+
+Speaker B (40:35)
+Eu tenho que garantir que a primeira dose de tratamento, ou a dose única, ou a primeira das três, foi feita, olha, antes de 30 dias da criança nascer. Esse tratamento, ele tem que ter sido iniciado 30 dias ou mais antes da criança nascer.
+
+Speaker B (40:51)
+Cuidado, a primeira dose tem que ter tido esse tempo. Então, eu exibo para você.
+
+Speaker B (40:56)
+Se a criança nasceu de mamãe que recebeu três doses de tratamento para a sífilis e a primeira dessas doses foi feita 40 dias antes da criança nascer, está certo? Está certo, 30 dias ou mais.
+
+Speaker B (41:09)
+Agora, se ela recebeu essa dose faltando 20 dias para a criança nascer, pô, aí está errado. A primeira dose foi feita com um tempo muito curto para o nascimento, não vai dar tempo de tratar.
+
+Speaker B (41:19)
+Ah, e se foi feita com 30 dias? Está certo, 30 dias ou mais está certo.
+
+Speaker B (41:23)
+Beleza? Então, esses são os três critérios que todos têm que estar presentes. E eu queria te chamar a atenção para duas situações de dúvida que podem aparecer.
+
+Speaker B (41:32)
+Pô, a primeira delas é: e o tal do parceiro? Eu tenho que tratar o parceiro da mãe?
+
+Speaker B (41:37)
+A gente tem, né? Claro, eu quero que essa pessoa seja tratada.
+
+Speaker B (41:41)
+Eu não quero que ele fique ali reinfectando a própria mãe da criança ou, quem sabe, sei lá, outras pessoas. Mas é obrigatório que eu garanta esse tratamento?
+
+Speaker B (41:51)
+Não é. Se fosse obrigatório, estava aqui, ó, nesses três critérios.
+
+Speaker B (41:55)
+Então, se a tua questão não te falar sobre tratamento do parceiro ou o parceiro não quis tratar, pô, isso não vai influenciar na qualidade do tratamento da mãe, não vai. E tem uma segunda dúvida.
+
+Speaker B (42:07)
+Olha, lembra que eu te falei daquele VDRL, que é o exame, o grande exame da sífilis? Então, quando eu trato uma gestante, o que é que eu quero que aconteça com o VDRL dela?
+
+Speaker B (42:15)
+Pô, eu quero que ele caia, eu quero que ele zere até. Mas é obrigatório que eu tenha essa determinação do VDRL zerar ou cair para dizer que o tratamento foi adequado na mãe?
+
+Speaker B (42:25)
+Não. Se fosse obrigatório, estava aqui, nesses três critérios. Então, não precisa a tua questão te dar esse dado de VDRL, nem precisa ela te falar nada sobre ele.
+
+Speaker B (42:35)
+Ele não vai caracterizar um tratamento adequado. Qual o cuidado?
+
+Speaker B (42:39)
+Se o VDRL da gestante, ele subir, mesmo com você tendo tratado certo, caramba, aí está estranho, né? Então, é preciso que você tenha esse bom senso, esse discernimento.
+
+Speaker B (42:50)
+Se você tiver uma questão que te fala, por exemplo: gestante foi tratada no primeiro trimestre para sífilis e ela tem um VDRL do primeiro trimestre de 1 para 16, exemplo. Tratou para sífilis e lá no final da gestação, eita, o VDRL dela foi para 1 para 128.
+
+Speaker B (43:08)
+Caraca, ele saiu de um valor e saiu para outro várias diluições acima. Está estranho, não está?
+
+Speaker B (43:14)
+Está estranho. Essa gestante, o que aconteceu?
+
+Speaker B (43:17)
+Ou ela não tratou bem ou ela foi reinfectada, por exemplo. Então, se a tua questão te falar que o VDRL subiu após o tratamento na mãe, principalmente se ele subiu acima de duas diluições, ou melhor, duas diluições ou mais, entenda que isso deve ser um caso que provavelmente vai precisar ser retratado porque houve uma reinfecção, tá?
+
+Speaker B (43:37)
+Então, são esses os pontos para você ficar atento. E olha, na prática, infelizmente a situação mais comum e que se reflete na tua questão vai ser o quê?
+
+Speaker B (43:45)
+Vai ser aquela criança que nasceu de mamãe que foi inadequadamente tratada. Ou ela não recebeu tratamento nenhum ou ela recebeu e foi errado.
+
+Speaker B (43:52)
+Isso é o que é mais comum. E aqui eu preciso que você seja capaz de fazer uma correlação mental imediata.
+
+Speaker B (43:58)
+Toda vida que você estiver diante de uma questão que te fala desse bebê que nasceu de mamãe não tratada, eu quero que você leia isso como é sífilis congênita. Pô, basta isso?
+
+Speaker B (44:09)
+Basta isso. Basta isso.
+
+Speaker B (44:11)
+Essa é a criança que ela já tem por definição sífilis congênita, só pela mãe não ter tratado. Então, aqui nesse cenário, eu já vou precisar fazer um bando de coisas, um bando de coisas.
+
+Speaker B (44:22)
+Eu tenho que fazer o quê? Eu tenho que notificar esse paciente.
+
+Speaker B (44:25)
+Lembra, sífilis congênita é uma doença de notificação compulsória. Não é de notificação imediata, é de notificação compulsória.
+
+Speaker B (44:32)
+O que mais? Só por esse fato, só pela mãe não ter tratado, além de notificar, eu já tenho que fazer para essa criança um exame físico completo.
+
+Speaker B (44:40)
+Eu tenho que buscar ali com detalhes se ela tem alguma alteração clínica que me lembre sífilis. Eu tenho que pedir todos aqueles exames completos que eu te falei agora há pouco.
+
+Speaker B (44:50)
+Eu tenho que pedir para essa criança hemograma, VDRL do sangue periférico, raio-X de ossos longos. Tenho que pedir até um exame que é fundamental, fundamental além desses três, que é qual?
+
+Speaker B (45:01)
+Pô, gente, é a análise do líquor, a análise do LCR, do líquor. Fundamental.
+
+Speaker B (45:08)
+E eu tenho que, para essas crianças, já definir um tratamento. Como que eu vou tratar?
+
+Speaker B (45:13)
+Geralmente com penicilinas. Nós temos três opções de penicilinas.
+
+Speaker B (45:17)
+Qual que eu vou escolher? Depende.
+
+Speaker B (45:19)
+Ah, depende de quê? Depende de quem é a minha criança.
+
+Speaker B (45:22)
+Então, diante aqui desses nossos pacientes, poxa, eu posso ter uma situação em que eu tenho um paciente cujo líquor veio alterado. Lembra que eu te falei agora há pouco que o líquor era um exame fundamental?
+
+Speaker B (45:32)
+Até escrevi ele para você, para te enfatizar. Então, a tua primeira pergunta nesse cenário é: o líquor da criança está alterado?
+
+Speaker B (45:39)
+E aí, para eu saber se tem um líquor alterado, ele precisa ter uma dessas três alterações. Uma das três, qualquer.
+
+Speaker B (45:47)
+Ou um VDRL positivo no líquor, ou um nível de celularidade maior que 25, ou um nível de proteína maior que 150. Qualquer uma, qualquer uma.
+
+Speaker B (45:56)
+Isso é uma informação fundamental para você. Olha, se essa criança alterou qualquer um desses três, ela tem um líquor alterado, ela tem uma neurossífilis, certamente.
+
+Speaker B (46:05)
+E essa criança só vai poder receber de tratamento uma opção que é a tal da penicilina cristalina, cristalina endovenosa por dez dias. Quer lembrar disso e nunca mais esquecer?
+
+Speaker B (46:16)
+Lembra que a penicilina cristalina é a penicilina que trata a crista, a crista? O que é crista?
+
+Speaker B (46:23)
+Pô, crista na medicina é topo. Lembra crista ilíaca?
+
+Speaker B (46:26)
+Crista ilíaca é o topo, a parte superior do osso ilíaco. Então, a crista na cabeça é a cabeça da criança.
+
+Speaker B (46:33)
+Então, a penicilina que trata a cabeça da criança, que trata a crista, é a penicilina da crista, que é a penicilina cristalina. Vai te ajudar para caramba isso.
+
+Speaker B (46:42)
+Eu posso ter um segundo cenário onde a criança tem um líquor que é normal, ótimo, mas ela teve alteração em algum outro exame. Qualquer exame, tá?
+
+Speaker B (46:51)
+Ou no VDRL, ou no exame físico, ou no hemograma, ou no raio-X, qualquer, qualquer exame. Nesse caso, essa criança pode receber sim ainda a penicilina cristalina, pode, é V por dez dias, mas eu ganho a possibilidade, olha, de fazer a penicilina procaína, também por dez dias, só que a grande vantagem está aqui, ó, ela é uma penicilina
+
+Speaker B (47:12)
+intramuscular. Pô, por que isso é uma vantagem? Isso é uma grande vantagem.
+
+Speaker B (47:17)
+Na pediatria, é difícil manter acesso venoso fazendo medicação muito tempo, gente. Então, quando eu tenho uma criança que tem a possibilidade de usar uma medicação no músculo, pô, isso facilita demais o nosso tratamento.
+
+Speaker B (47:30)
+Então, no caso de um líquor normal e outra alteração, é isso aqui. Felizmente, eu posso ter um terceiro cenário onde essa criança nasceu sim de uma mãe que não tratou adequado, mas opa, essa criança está toda normal.
+
+Speaker B (47:41)
+Essa criança é uma criança que não tem sintomas e ela tem todos os exames ótimos, ótimos, ótimos, até o VDRL. Tudo zerado.
+
+Speaker B (47:49)
+VDRL zero, líquor normal, raio-X normal, hemograma normal, exame físico normal, tudo normal. Nesse caso, eu fico mais tranquilo e eu posso fazer para essa criança um benzetacil, uma penicilina benzatina intramuscular em dose única.
+
+Speaker B (48:05)
+Ah, é assim que a gente trata esse caso? É assim.
+
+Speaker B (48:08)
+Siga essa sequência e você vai ver que você não se perde nenhuma questão. Então, existe, felizmente, um cenário, um outro cenário, onde pode ser que a mãe tenha sido, ó, mamãe adequadamente tratada.
+
+Speaker B (48:20)
+Então, diante de um cenário em que a mãe foi adequadamente tratada, eu fico mais tranquilo, porque pode ser que a mãe tratou e o bebê também tratou. Então, aqui nesse cenário, eu não posso já de cara dizer que tem uma sífilis congênita, não posso.
+
+Speaker B (48:34)
+Aqui eu preciso me antecipar e perguntar: opa, quem que é esse bebê? Como que está o nível, a atividade de possível doença nesse bebê?
+
+Speaker B (48:42)
+Qual era o exame que media a atividade de doença? Era o VDRL.
+
+Speaker B (48:45)
+Então, minha primeira pergunta aqui é estabelecer uma comparação entre o VDRL da criança e entre o VDRL da mãe. Olha a lógica disso.
+
+Speaker B (48:54)
+Se o VDRL da criança for positivo e for um VDRL muito maior do que o da mãe, significativamente maior do que o da mãe, poxa, eu vou me perguntar: será que essa criança está doente? E certamente ela deve estar, porque VDRL marca atividade.
+
+Speaker B (49:10)
+Agora, se eu tenho uma criança nesse cenário e o VDRL dela é zero ou é um VDRL baixinho, que não me preocupa tanto, pô, pode ser que ela tenha um VDRL positivo, mas isso não significa doença. Por isso que eu comparo sempre com o da mãe.
+
+Speaker B (49:25)
+E aí a minha primeira pergunta vai ser saber se o VDRL do recém-nascido é pelo menos duas vezes maior do que o VDRL materno. Ou seja, o VDRL da criança é maior ou igual a pelo menos duas diluições o valor do VDRL materno?
+
+Speaker B (49:42)
+Aqui na sífilis, a gente adora usar esse termo duas diluições, porque isso garante que não teve erro laboratorial. Então, essa é a minha primeira pergunta.
+
+Speaker B (49:51)
+E aí, você lembra que eu te mostrei esses quadrinhos aqui para categorizar tratamento, para categorizar o que era um VDRL? Então, eu quero te trazer isso aqui para você entender um conceito.
+
+Speaker B (50:01)
+Pensa comigo: se a mãe da criança tem um VDRL de 1 para 4, vamos supor isso aqui, e o filho, o recém-nascido, tem um VDRL de 1 para 8, me responde: o VDRL do recém-nascido, nesse caso, é maior do que o da mãe em pelo menos duas diluições? Lembra, cada quadradinho desse é uma diluição a mais no
+
+Speaker B (50:22)
+teste que eu faço. Então, aqui nesse cenário, poxa, o VDRL da criança é só uma diluição maior do que o materno.
+
+Speaker B (50:29)
+Então, essa resposta é não. Olha o outro cenário.
+
+Speaker B (50:34)
+Se eu tenho uma mãe que tem 1 para 4 de VDRL, mas o recém-nascido, opa, tem um VDRL de 1 para 16, nessa situação, o VDRL dele é maior do que o materno em pelo menos duas diluições? Olha só, uma diluição, duas diluições.
+
+Speaker B (50:51)
+Opa, nesse caso sim, foi maior do que o materno em pelo menos duas diluições. Então, olha, na tua prova, sempre que você tiver o valor do VDRL da criança e da mãe, faz esse desenho, faz esses tracinhos.
+
+Speaker B (51:02)
+Não tem vergonha de fazer isso, não. Você vai acertar e não vai se perder na tua questão, tá?
+
+Speaker B (51:07)
+Então, diante disso, existe um primeiro cenário em que, de fato, olha, sim, eu tenho um recém-nascido cujo VDRL foi pelo menos duas diluições maior do que o materno. Olha, nessa situação, eu vou me perguntar, eu vou me afirmar, na verdade, que essa criança tem sífilis.
+
+Speaker B (51:22)
+Por quê? Porque o VDRL está muito alto, está maior do que o materno em duas diluições.
+
+Speaker B (51:27)
+Então, deve ser doença na criança. O que é que eu faço?
+
+Speaker B (51:30)
+Notifico como sífilis congênita, faço todos aqueles exames que eu te falei e já trato a criança. Trato com ou com penicilina procaína ou com penicilina da crista cristalina.
+
+Speaker B (51:42)
+Qual que eu uso? Depende da crista.
+
+Speaker B (51:44)
+Se a crista está alterada, se o líquor está alterado, é a penicilina da crista, é a cristalina apenas. Beleza?
+
+Speaker B (51:51)
+Agora, olha só, se eu tenho uma criança que nasceu de uma mãe adequadamente tratada, mas essa criança não tem um VDRL maior do que o materno em pelo menos duas diluições, por exemplo, ele pode ser zero, pode ser menor do que o materno, pode ser igual ao materno, pode até ser maior do que o materno e, no
+
+Speaker B (52:08)
+máximo, uma diluição. Nesse caso, eu tenho que me perguntar: será que essa criança tem sífilis?
+
+Speaker B (52:14)
+Será que esse VDRL diz alguma coisa para mim? Então, eu tenho que olhar para o exame físico da criança.
+
+Speaker B (52:20)
+Quem é meu paciente? Olha, se nessa situação eu tiver um exame físico totalmente normal, é uma criança assintomática?
+
+Speaker B (52:27)
+Gente, pensa. Eu tenho uma criança que nasceu de uma mãe adequadamente tratada, essa criança não tem um VDRL que me preocupe e essa criança não tem sintoma.
+
+Speaker B (52:37)
+Poxa, essa criança não tem sífilis, não tem sífilis. Essa é a criança que foi só exposta a uma sífilis materna e eu não vou ter que tratar essa criança coisa nenhuma.
+
+Speaker B (52:45)
+Eu vou acompanhar, vou ver como é que essa criança vai seguir ao longo do tempo. Por outro lado, se eu tenho uma criança que nasceu de uma mãe adequadamente tratada, o VDRL dela não foi maior do que o materno em duas diluições, mas na hora que eu examinei minha criança e eu vi que ela tem algumas alterações,
+
+Speaker B (53:03)
+ela tem sintoma. Será que esse sintoma é de sífilis?
+
+Speaker B (53:07)
+Como é que eu vou saber se esse sintoma deve ser de sífilis ou não? Eu vou olhar para aquele exame que marca atividade de doença.
+
+Speaker B (53:14)
+Então, eu vou me perguntar como está o VDRL dessa criança. Olha, ele pode ser um VDRL que não foi maior do que o materno em duas diluições.
+
+Speaker B (53:21)
+Por quê? Porque ele é zero, zero, não reagente.
+
+Speaker B (53:24)
+Ou porque ele é reagente em algum nível. Está aí.
+
+Speaker B (53:28)
+Se o VDRL dessa criança, nesse cenário, for pelo menos reagente, qualquer reagente, tá? Basta ser 1 para 2.
+
+Speaker B (53:35)
+Eu vou dizer que, nessa situação, essa criança tem sífilis. Por quê?
+
+Speaker B (53:39)
+Sífilis é grave, a gente não vai pagar para ver e eu vou dizer que, nesse cenário, ele tem sífilis. E aí eu vou notificar, vou pedir todos os exames e vou tratar.
+
+Speaker B (53:49)
+Vou tratar com penicilina procaína ou penicilina da crista cristalina. Agora, pensa, se essa é uma criança que tem sintoma.
+
+Speaker B (53:58)
+O VDRL dela não me preocupava com relação ao materno. Ela tem sintoma, mas o VDRL dela não era maior do que o materno em duas diluições porque ele é zero, ele é não reator.
+
+Speaker B (54:11)
+Caraca, se uma criança tem sintoma e o VDRL é zero, pô, gente, não tem como ser sífilis, não tem. O VDRL é o que marca atividade de doença.
+
+Speaker B (54:20)
+Se ele está não reator, o sintoma não é de sífilis. Então, esse sintoma é de quê?
+
+Speaker B (54:26)
+Pois esse sintoma é certamente de outra infecção. Aqui, infecção?
+
+Speaker B (54:30)
+Não sei. Aí a gente vai procurar qual que deve ser essa outra causa.
+
+Speaker B (54:34)
+Mas é assim que a gente trata uma criança cuja mãe foi adequadamente tratada. Beleza.
+
+Speaker B (54:40)
+Defini quem era essa criança, essas crianças, defini quem eu ia tratar, defini quem eu não ia tratar. E aí eu nunca mais vejo esse paciente?
+
+Speaker B (54:49)
+Claro que não. Então, a gente precisa definir muito bem como vai ser o seguimento dessas crianças.
+
+Speaker B (54:54)
+Pô, como eu vou acompanhar elas ao longo do tempo? E não tenha dúvida, o melhor exame para acompanhar uma criança com sífilis congênita é o grande exame da sífilis, é o exame da atividade de doença, é o VDRL.
+
+Speaker B (55:05)
+Então, eu vou acompanhar essa criança em alguns meses, tá? Um mês depois da alta, três meses, seis meses, um ano, dezoito meses.
+
+Speaker B (55:14)
+Não precisa se ater tanto nesses números, tá? O que eu quero chamar tua atenção é que o que eu quero diante de uma criança que tinha um VDRL positivo é que esse VDRL chegue a zero, que ele zere.
+
+Speaker B (55:26)
+Ou porque a criança não tinha doença e tinha um VDRL positivo inquérito, ou porque é uma criança que tinha doença e eu tratei e o VDRL vai zerar. É o que eu quero.
+
+Speaker B (55:35)
+Então, eu vou interromper o meu seguimento quando? Quando eu garantir que, pelo menos em dois desses meus exames, duas dessas minhas consultas, o VDRL se manteve zero.
+
+Speaker B (55:45)
+Então, exemplo: com três meses eu fiz o VDRL do bebê, era zero. Com seis meses ele se manteve zero?
+
+Speaker B (55:51)
+Acabou, acabou o seguimento. É o melhor cenário.
+
+Speaker B (55:55)
+Agora, pode ter um cenário onde eu vou ter que investigar essa criança de novo e vou ter que tratar. Ou tratar pela primeira vez aquela criança que eu disse que não era sífilis e optei por não tratar, ou retratar uma criança que eu já fiz um tratamento e aparentemente não funcionou.
+
+Speaker B (56:12)
+Quando eu vou fazer isso? Olha, eu vou fazer isso sempre, sempre em que eu tiver uma criança cujo VDRL nesse seguimento aumentou demais.
+
+Speaker B (56:21)
+Raciocina: não faz sentido que você tenha uma criança que não tinha sífilis ou uma criança que tinha sífilis e tratou e esse VDRL aumente muito. Não faz sentido.
+
+Speaker B (56:31)
+Então, se você perceber que ele aumentou em duas diluições pelo menos ou mais, você vai ter que reinvestigar e tratar essa criança. Sempre.
+
+Speaker B (56:41)
+Esse não é o único cenário estranho. Eu posso ficar com uma pulga atrás da orelha quando?
+
+Speaker B (56:47)
+Quando eu tenho um VDRL nesse seguimento e ele demorou demais para negativar. Levou muito tempo para ele chegar no zero.
+
+Speaker B (56:55)
+Está estranho. Então, nessa situação em que o VDRL não negativou, eu tenho que me perguntar quem é a criança que eu estou diante.
+
+Speaker B (57:01)
+Ora, se eu estou diante de uma criança que eu disse que foi só exposta à sífilis materna, eu não tratei. Eu quero que o VDRL dela caia mais rápido.
+
+Speaker B (57:09)
+Então, eu espero que ele caia até seis meses. Se esse VDRL, nessa situação, não caiu, não zerou em até seis meses, não zerou em até seis meses, eu vou ter que investigar e tratar essa criança.
+
+Speaker B (57:23)
+Agora, se eu estiver diante de uma criança que eu disse que tinha sífilis congênita e eu tratei, eu espero que esse VDRL da criança zere em mais tempo. Eu espero que ele zere em até dezoito meses.
+
+Speaker B (57:34)
+Então, se nessa situação deu dezoito meses e ele não zerou, esta criança tem que ser reinvestigada, esta criança tem que ser retratada. Beleza?
+
+Speaker B (57:46)
+Era isso que você tinha que saber sobre sífilis. Sífilis é um tema extremamente frequente.
+
+Speaker B (57:50)
+Então, vamos lá voltar para aquele nosso caso número um. Olha só, voltando para o caso número um, qual que é a tua primeira pergunta?
+
+Speaker B (57:56)
+Olha, como você vai classificar aquele recém-nascido em relação à idade, em relação ao peso dessa criança? Poxa, você lembra qual que eram os valores?
+
+Speaker B (58:05)
+Eu vou te lembrar. O João Eucalipto tinha 36 semanas e quatro dias.
+
+Speaker B (58:09)
+Então, me diz: se ele nasceu com menos de 37 semanas, João Eucalipto é uma criança pré-termo. E em relação ao peso?
+
+Speaker B (58:17)
+Poxa, o peso dele era de 1.900 gramas. Se ele nasceu com menos de 2.500 gramas, mas até 1.500 gramas, João Eucalipto é uma criança de baixo peso.
+
+Speaker B (58:27)
+Está faltando alguma classificação? Está.
+
+Speaker B (58:29)
+Está faltando cruzar esses dois dados. Então, olhando aquela tabela, onde está João Eucalipto nessa história?
+
+Speaker B (58:35)
+Está aqui, está bem aqui. Ele é uma criança de 36 semanas e quatro dias, é uma criança de 1.900 gramas.
+
+Speaker B (58:42)
+Então, ele está exatamente abaixo da linha do P10. Você está vendo?
+
+Speaker B (58:46)
+Ele está aqui, abaixo da linha do P10. E se ele está abaixo do P10, ele é uma criança PIG.
+
+Speaker B (58:52)
+Ele é um bebê PIG, pequeno para a idade gestacional. Deixa eu aproveitar que a gente está aqui diante só para te dar uma informação extra.
+
+Speaker B (59:01)
+Vê aqui com 37 semanas que toda criança que tem 37 semanas, se eu jogo aqui na curva do gráfico, quando ela está em cima do P10, eu espero que essa criança tenha ali entre 2.000 e 2.200 gramas. Está vendo isso?
+
+Speaker B (59:15)
+Então, com 37 semanas, as crianças têm que ter, têm que ter pelo menos 2.000 gramas, até um pouquinho mais. Daí você conclui que toda criança que tenha mais de 37 semanas, 37 semanas ou mais, se ela tiver menos de 2.000 gramas, esta criança será um bebê PIG.
+
+Speaker B (59:33)
+Por quê? Porque ela vai estar abaixo do P10.
+
+Speaker B (59:36)
+Se com 37 semanas tinha que ter 2.000 gramas, com 37 ou mais, com menos que isso de peso, é um bebê PIG. Então, a questão não precisa te dizer que ele é PIG ou te dar gráfico nesse caso.
+
+Speaker B (59:45)
+Você já é capaz de se antecipar e chegar nessa resposta. Só uma informação extra.
+
+Speaker B (59:50)
+Enfim, tem uma segunda pergunta aqui para você. Você considera que o tratamento da Florinda Rosa foi adequado?
+
+Speaker B (59:56)
+Lembra como ela tratou? Ela fez 2.400.000 unidades da penicilina benzatina.
+
+Speaker B (1:00:02)
+Foi certo ou errado isso? Foi errado, gente, foi errado.
+
+Speaker B (1:00:06)
+Por quê? Porque a gente não sabe, no caso clínico, qual foi a fase da doença na mãe.
+
+Speaker B (1:00:10)
+Ela foi certamente uma sífilis de duração ignorada. Ela descobriu por um VDRL e não sabe quando ela teve.
+
+Speaker B (1:00:16)
+Então, na sífilis de duração ignorada, o tratamento é com três doses, intervalo de sete a nove dias. Então, ela tratou errado porque eu não tenho garantia da dose para o estágio.
+
+Speaker B (1:00:27)
+E uma última pergunta: qual que vai ser o tratamento indicado para o recém-nascido? Olha, lembra: se eu tenho um recém-nascido que nasceu de uma mãe inadequadamente tratada, qual é a primeira pergunta que você se faz?
+
+Speaker B (1:00:38)
+A primeira pergunta é como está a crista do bebê, a crista, o líquor. Então, se esse bebê tem uma crista, um líquor alterado, esse é um bebê que só pode receber o quê?
+
+Speaker B (1:00:48)
+A penicilina da crista, a penicilina cristalina endovenosa por dez dias. Lembra como estava o líquor dele?
+
+Speaker B (1:00:54)
+Ele tinha um líquor com 40 de celularidade e tinha um líquor com 160 proteínas. Pô, VDRL alterado no líquor ou celularidade maior que 25 ou proteína maior que 150, acabou.
+
+Speaker B (1:01:07)
+É, de fato, um líquor alterado. Como ele tem líquor alterado, só é a penicilina da crista para essa criança, tá?
+
+Speaker B (1:01:14)
+Então, nós vimos aqui, nesse primeiro tempo, exatamente tudo sobre sífilis congênita, infecção congênita mais importante. Nós vimos sobre classificação do recém-nascido.
+
+Speaker B (1:01:23)
+Respira, toma um gole d'água, que a gente vai voltar daqui a pouco para falar sobre outras infecções congênitas que são importantes para você.

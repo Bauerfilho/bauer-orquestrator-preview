@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Caso João Eucalipto</title>
+  <desc id="desc">Painel visual do caso: 36 semanas e 4 dias, 1900 gramas, líquor alterado e tratamento com penicilina cristalina.</desc>
+  <rect width="1200" height="720" fill="#f7fbfa"/>
+  <rect x="70" y="70" width="1060" height="580" rx="36" fill="#ffffff" stroke="#d7e7e3" stroke-width="4"/>
+  <text x="115" y="135" font-family="Inter, Arial" font-size="42" font-weight="900" fill="#10211f">Caso: João Eucalipto</text>
+  <g font-family="Inter, Arial" font-weight="800">
+    <rect x="120" y="200" width="260" height="135" rx="24" fill="#e7f5f1"/>
+    <text x="150" y="255" font-size="31" fill="#0b534e">36s4d</text>
+    <text x="150" y="295" font-size="22" fill="#58706c">pré-termo tardio</text>
+    <rect x="470" y="200" width="260" height="135" rx="24" fill="#fff7ed"/>
+    <text x="500" y="255" font-size="31" fill="#9a3412">1900 g</text>
+    <text x="500" y="295" font-size="22" fill="#58706c">baixo peso · PIG</text>
+    <rect x="820" y="200" width="260" height="135" rx="24" fill="#ffe4e6"/>
+    <text x="850" y="255" font-size="31" fill="#9f1239">LCR +</text>
+    <text x="850" y="295" font-size="22" fill="#58706c">40 células · 160 proteínas</text>
+    <path d="M250 380h700" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="250" cy="380" r="24" fill="#0f766e"/>
+    <circle cx="600" cy="380" r="24" fill="#f59e0b"/>
+    <circle cx="950" cy="380" r="24" fill="#be123c"/>
+    <rect x="220" y="455" width="760" height="105" rx="28" fill="#ecfeff" stroke="#a5f3fc" stroke-width="4"/>
+    <text x="270" y="515" font-size="30" fill="#164e63">Conduta final: penicilina cristalina EV por 10 dias</text>
+  </g>
+</svg>

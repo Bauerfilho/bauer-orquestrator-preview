@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0f766e">
+    <meta
+      name="description"
+      content="Mini plataforma local de Neonatologia: classificação do recém-nascido e sífilis congênita a partir da transcrição da aula 1."
+    >
+    <title>Neonatologia Aula 1 | Classificação do RN e Sífilis Congênita</title>
+    <link rel="icon" href="assets/illustrations/favicon.svg" type="image/svg+xml">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+
+    <header class="app-header">
+      <button class="icon-button menu-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="menu-aula">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">N1</span>
+        <div>
+          <p>Neonatologia</p>
+          <h1>Classificação do RN e Sífilis Congênita</h1>
+        </div>
+      </div>
+
+      <div class="header-actions" aria-label="Ações rápidas">
+        <button class="ghost-button" type="button" data-action="toggle-transcript">Transcrição</button>
+        <button class="primary-button" type="button" data-action="start-review">Revisar</button>
+      </div>
+    </header>
+
+    <div class="app-shell">
+      <nav class="side-nav" id="menu-aula" aria-label="Navegação da aula">
+        <p class="nav-title">Aula 1</p>
+        <a href="#mapa">Mapa</a>
+        <a href="#classificacao">Classificação</a>
+        <a href="#infeccoes">Infecções congênitas</a>
+        <a href="#sifilis">Sífilis congênita</a>
+        <a href="#fluxo">Fluxo terapêutico</a>
+        <a href="#caso">Caso João Eucalipto</a>
+        <a href="#fixacao">Fixação</a>
+      </nav>
+
+      <main id="conteudo" tabindex="-1">
+        <section class="hero" id="mapa" aria-labelledby="titulo-mapa">
+          <div class="hero-copy">
+            <p class="course-label">Mini plataforma local · transcrição preservada</p>
+            <h2 id="titulo-mapa">Da primeira classificação do recém-nascido ao tratamento da neurossífilis.</h2>
+            <p>
+              Esta aula começa com as três classificações do RN, passa pelos caminhos de infecção neonatal
+              e concentra a maior parte do raciocínio em sífilis congênita: clínica, VDRL, investigação,
+              tratamento, seguimento e aplicação no caso Florinda Rosa/João Eucalipto.
+            </p>
+            <div class="hero-actions">
+              <a class="primary-button" href="#classificacao">Começar aula</a>
+              <a class="ghost-button" href="data/transcricao.txt">Abrir fonte .txt</a>
+            </div>
+          </div>
+
+          <figure class="hero-figure">
+            <img src="assets/illustrations/hero-generated.png" alt="Arte gerada de recém-nascido em berço neonatal com linha gestacional, escala de peso e símbolo de infecção congênita.">
+          </figure>
+        </section>
+
+        <section class="progress-band" aria-label="Progresso de estudo">
+          <div>
+            <strong id="progress-value">0%</strong>
+            <span>concluído nesta sessão</span>
+          </div>
+          <div class="progress-track" aria-hidden="true">
+            <span id="progress-bar"></span>
+          </div>
+        </section>
+
+        <section class="lesson-section" id="classificacao" aria-labelledby="titulo-classificacao">
+          <div class="section-heading">
+            <p>Bloco 1</p>
+            <h2 id="titulo-classificacao">Classificação do recém-nascido</h2>
+          </div>
+
+          <figure class="lesson-figure">
+            <img src="assets/illustrations/classificacao-rn.svg" alt="Mapa visual da classificação do recém-nascido por idade gestacional, peso e percentis P10-P90.">
+          </figure>
+
+          <div class="content-grid">
+            <article class="lesson-card">
+              <h3>1. Idade gestacional</h3>
+              <p>
+                A primeira pergunta é quanto tempo de gestação havia quando o bebê nasceu. O dado pode vir da
+                obstetrícia ou ser estimado pelo exame físico com Capurro ou New Ballard.
+              </p>
+              <ul>
+                <li><strong>Pós-termo:</strong> 42 semanas ou mais.</li>
+                <li><strong>Termo:</strong> de 37 semanas até 41 semanas e 6 dias.</li>
+                <li><strong>Pré-termo:</strong> abaixo de 37 semanas.</li>
+                <li><strong>Pré-termo tardio:</strong> 34 semanas até 36 semanas e 6 dias.</li>
+                <li><strong>Pré-termo extremo:</strong> abaixo de 28 semanas.</li>
+              </ul>
+            </article>
+
+            <article class="lesson-card">
+              <h3>2. Peso ao nascer</h3>
+              <p>
+                A segunda classificação vem da balança. A aula reforça três pontos de corte: 2.500 g,
+                1.500 g e 1.000 g.
+              </p>
+              <ul>
+                <li><strong>Baixo peso:</strong> menor que 2.500 g até 1.500 g.</li>
+                <li><strong>Muito baixo peso:</strong> menor que 1.500 g até 1.000 g.</li>
+                <li><strong>Extremo baixo peso:</strong> menor que 1.000 g.</li>
+                <li>Menos de 1.500 g já permite inferir prematuridade.</li>
+                <li>Abaixo de 28 semanas, em geral, o RN estará abaixo de 1.000 g.</li>
+              </ul>
+            </article>
+
+            <article class="lesson-card">
+              <h3>3. Peso para idade gestacional</h3>
+              <p>
+                Aqui o raciocínio cruza peso e idade gestacional no gráfico. Em RN, a faixa de normalidade é
+                entre P10 e P90, não P3 e P97.
+              </p>
+              <ul>
+                <li><strong>GIG:</strong> acima do percentil 90.</li>
+                <li><strong>AIG:</strong> entre P10 e P90.</li>
+                <li><strong>PIG:</strong> abaixo do percentil 10.</li>
+                <li>GIG e PIG têm maior risco de complicações, como hipoglicemia.</li>
+              </ul>
+            </article>
+          </div>
+
+          <div class="tool-panel" aria-labelledby="titulo-calculadora-rn">
+            <div>
+              <p>Ferramenta ativa</p>
+              <h3 id="titulo-calculadora-rn">Classificador rápido do RN</h3>
+            </div>
+            <form class="calculator" id="rn-form">
+              <label>
+                Semanas
+                <input type="number" name="weeks" min="20" max="45" value="36">
+              </label>
+              <label>
+                Dias
+                <input type="number" name="days" min="0" max="6" value="4">
+              </label>
+              <label>
+                Peso (g)
+                <input type="number" name="weight" min="300" max="6000" value="1900">
+              </label>
+              <button class="primary-button" type="submit">Classificar</button>
+            </form>
+            <output class="result-box" id="rn-result" aria-live="polite"></output>
+          </div>
+        </section>
+
+        <section class="lesson-section" id="infeccoes" aria-labelledby="titulo-infeccoes">
+          <div class="section-heading">
+            <p>Bloco 2</p>
+            <h2 id="titulo-infeccoes">Infecções no recém-nascido</h2>
+          </div>
+
+          <figure class="lesson-figure">
+            <img src="assets/illustrations/vias-infeccao.svg" alt="Ilustração das vias transplacentária, ascendente, comunitária e hospitalar de infecção neonatal.">
+          </figure>
+
+          <div class="pathway">
+            <article>
+              <h3>Dentro do útero</h3>
+              <p><strong>Transplacentária:</strong> microrganismo passa pela placenta. Quando é por essa via, a aula chama de infecção congênita.</p>
+              <p><strong>Ascendente ou intraparto:</strong> agente sobe pelo colo uterino ou infecta durante a passagem pelo canal de parto.</p>
+            </article>
+            <article>
+              <h3>Depois do nascimento</h3>
+              <p><strong>Comunitária:</strong> adquirida fora do hospital, inclusive por vias como amamentação em infecções específicas.</p>
+              <p><strong>Hospitalar ou nosocomial:</strong> associada ao cuidado, especialmente em RN que precisam de UTI neonatal.</p>
+            </article>
+          </div>
+
+          <article class="lesson-card wide">
+            <h3>Regra prática da clínica</h3>
+            <p>
+              A maioria das infecções congênitas ocorre no terceiro trimestre e, por isso, muitos RN nascem
+              assintomáticos. Quando há manifestações, elas podem parecer soltas: icterícia, PIG,
+              hepatosplenomegalia e lesões de pele. Em prova, vários achados desconexos em bebê pequeno devem
+              acender a hipótese de infecção congênita.
+            </p>
+            <div class="compare-row">
+              <div><strong>IgM</strong><span>Grande, não atravessa placenta, sugere produção pelo bebê e infecção recente.</span></div>
+              <div><strong>IgG</strong><span>Atravessa placenta; pode ser materna. O seguimento mostra se sobe ou cai.</span></div>
+            </div>
+          </article>
+        </section>
+
+        <section class="lesson-section" id="sifilis" aria-labelledby="titulo-sifilis">
+          <div class="section-heading">
+            <p>Bloco 3</p>
+            <h2 id="titulo-sifilis">Sífilis congênita</h2>
+          </div>
+
+          <div class="content-grid two">
+            <article class="lesson-card">
+              <h3>O essencial</h3>
+              <p>
+                A sífilis é causada pelo <em>Treponema pallidum</em>. A forma congênita é a transmissão
+                hematogênica transplacentária do treponema. A mãe pode transmitir em qualquer estágio,
+                inclusive fase latente; primária e secundária têm carga maior e transmissão muito alta.
+              </p>
+              <p>
+                Por isso o pré-natal precisa diagnosticar e tratar antes do nascimento. O RN costuma ser
+                assintomático, então a decisão nasce do dado materno, do VDRL e da investigação.
+              </p>
+            </article>
+
+            <article class="lesson-card">
+              <h3>Manifestações precoces</h3>
+              <ul>
+                <li>Primeiros dois anos: inflamação em pele, mucosa e osso.</li>
+                <li>Rinite serossanguinolenta.</li>
+                <li>Placas mucosas no ângulo da boca.</li>
+                <li>Condiloma plano periorificial, especialmente perianal.</li>
+                <li>Pênfigo palmoplantar, lesão bolhosa muito infectante.</li>
+                <li>Periostite e osteocondrite.</li>
+                <li>Dor à manipulação e pseudoparalisia de Parrot.</li>
+              </ul>
+            </article>
+
+            <article class="lesson-card">
+              <h3>Manifestações tardias</h3>
+              <ul>
+                <li>Acima de dois anos: sequelas cicatriciais/fibrosantes da inflamação precoce.</li>
+                <li>Fronte olímpica.</li>
+                <li>Tíbia em sabre.</li>
+                <li>Dentes de Hutchinson e molares em amora.</li>
+                <li>Nariz em sela.</li>
+                <li>Rágades.</li>
+                <li>Articulação de Clutton.</li>
+              </ul>
+            </article>
+
+            <article class="lesson-card">
+              <h3>VDRL sem tropeço</h3>
+              <p>
+                O VDRL é teste não treponêmico, coletado em sangue periférico do bebê, nunca no cordão. Ele
+                mede atividade de doença. Quanto maior a diluição ainda reagente, maior a atividade.
+              </p>
+              <p>
+                Testes treponêmicos, como FTA-ABS e teste rápido, não são o eixo desta fase inicial; a aula
+                ressalta utilidade depois de 18 meses.
+              </p>
+            </article>
+          </div>
+
+          <div class="tool-panel">
+            <div>
+              <p>Ferramenta ativa</p>
+              <h3>Comparador de VDRL mãe × RN</h3>
+            </div>
+            <form class="calculator" id="vdrl-form">
+              <label>
+                VDRL materno
+                <select name="mother">
+                  <option value="0">Não reagente</option>
+                  <option value="2">1:2</option>
+                  <option value="4" selected>1:4</option>
+                  <option value="8">1:8</option>
+                  <option value="16">1:16</option>
+                  <option value="32">1:32</option>
+                  <option value="64">1:64</option>
+                  <option value="128">1:128</option>
+                </select>
+              </label>
+              <label>
+                VDRL RN
+                <select name="baby">
+                  <option value="0">Não reagente</option>
+                  <option value="2">1:2</option>
+                  <option value="4">1:4</option>
+                  <option value="8">1:8</option>
+                  <option value="16" selected>1:16</option>
+                  <option value="32">1:32</option>
+                  <option value="64">1:64</option>
+                  <option value="128">1:128</option>
+                </select>
+              </label>
+              <button class="primary-button" type="submit">Comparar</button>
+            </form>
+            <output class="result-box" id="vdrl-result" aria-live="polite"></output>
+          </div>
+        </section>
+
+        <section class="lesson-section" id="fluxo" aria-labelledby="titulo-fluxo">
+          <div class="section-heading">
+            <p>Bloco 4</p>
+            <h2 id="titulo-fluxo">Tratamento: seguir o fluxograma de cima para baixo</h2>
+          </div>
+
+          <figure class="lesson-figure">
+            <img src="assets/illustrations/fluxo-sifilis.svg" alt="Fluxograma visual para tratamento da sífilis congênita seguindo tratamento materno, VDRL, líquor e exames.">
+          </figure>
+
+          <div class="timeline">
+            <article>
+              <span>1</span>
+              <h3>Tratamento materno adequado?</h3>
+              <p>Benzatina, dose/intervalo adequados ao estágio e primeira dose pelo menos 30 dias antes do parto.</p>
+            </article>
+            <article>
+              <span>2</span>
+              <h3>Se inadequado: é sífilis congênita por definição</h3>
+              <p>Notificar, examinar, pedir VDRL periférico, hemograma, RX de ossos longos e líquor.</p>
+            </article>
+            <article>
+              <span>3</span>
+              <h3>Líquor alterado?</h3>
+              <p>VDRL positivo no líquor, celularidade maior que 25 ou proteína maior que 150 indicam penicilina cristalina EV por 10 dias.</p>
+            </article>
+            <article>
+              <span>4</span>
+              <h3>Líquor normal com outra alteração</h3>
+              <p>Pode usar penicilina cristalina EV por 10 dias ou penicilina procaína IM por 10 dias.</p>
+            </article>
+            <article>
+              <span>5</span>
+              <h3>Tudo normal apesar da mãe inadequada</h3>
+              <p>Penicilina benzatina IM em dose única.</p>
+            </article>
+          </div>
+
+          <div class="tool-panel">
+            <div>
+              <p>Ferramenta ativa</p>
+              <h3>Leitor do líquor</h3>
+            </div>
+            <form class="calculator" id="lcr-form">
+              <label>
+                Células
+                <input type="number" name="cells" min="0" value="40">
+              </label>
+              <label>
+                Proteínas
+                <input type="number" name="protein" min="0" value="160">
+              </label>
+              <label class="checkbox-label">
+                <input type="checkbox" name="vdrlLcr">
+                VDRL no líquor positivo
+              </label>
+              <button class="primary-button" type="submit">Interpretar</button>
+            </form>
+            <output class="result-box" id="lcr-result" aria-live="polite"></output>
+          </div>
+
+          <div class="tool-panel decision-tool" aria-labelledby="titulo-decisor">
+            <div>
+              <p>Ferramenta ativa</p>
+              <h3 id="titulo-decisor">Decisor terapêutico completo</h3>
+            </div>
+            <form class="decision-form" id="decision-form">
+              <fieldset>
+                <legend>Tratamento materno</legend>
+                <label class="checkbox-label"><input type="checkbox" name="benzathine"> Feito com penicilina benzatina</label>
+                <label class="checkbox-label"><input type="checkbox" name="stageDose"> Dose e intervalo adequados ao estágio</label>
+                <label class="checkbox-label"><input type="checkbox" name="thirtyDays"> Primeira dose 30 dias ou mais antes do parto</label>
+              </fieldset>
+              <fieldset>
+                <legend>Recém-nascido</legend>
+                <label class="checkbox-label"><input type="checkbox" name="physical"> Exame físico alterado</label>
+                <label class="checkbox-label"><input type="checkbox" name="otherTests"> Hemograma, RX ou VDRL periférico alterado</label>
+                <label class="checkbox-label"><input type="checkbox" name="lcrAltered"> Líquor alterado</label>
+                <label class="checkbox-label"><input type="checkbox" name="vdrlTwoDilutions"> VDRL RN ≥ duas diluições acima do materno</label>
+              </fieldset>
+              <button class="primary-button" type="submit">Decidir conduta</button>
+            </form>
+            <output class="result-box" id="decision-result" aria-live="polite"></output>
+          </div>
+        </section>
+
+        <section class="lesson-section" id="caso" aria-labelledby="titulo-caso">
+          <div class="section-heading">
+            <p>Bloco 5</p>
+            <h2 id="titulo-caso">Caso Florinda Rosa e João Eucalipto</h2>
+          </div>
+
+          <figure class="lesson-figure">
+            <img src="assets/illustrations/caso-joao.svg" alt="Resumo visual do caso João Eucalipto com 36 semanas e 4 dias, 1900 gramas, líquor alterado e penicilina cristalina.">
+          </figure>
+
+          <article class="case-card">
+            <div>
+              <h3>Dados do caso</h3>
+              <ul>
+                <li>Florinda Rosa, 20 anos, 14ª semana de gestação no diagnóstico.</li>
+                <li>VDRL materno inicial 1:32.</li>
+                <li>Tratamento feito: 2.400.000 UI de penicilina benzatina em dose única.</li>
+                <li>João Eucalipto nasceu com 36 semanas e 4 dias.</li>
+                <li>Peso de nascimento: 1.900 g; comprimento: 46 cm.</li>
+                <li>Ao nascer: hipotônico e em apneia.</li>
+                <li>Líquor: 40 células e 160 proteínas.</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Conclusão guiada pela aula</h3>
+              <ol>
+                <li>36s4d = pré-termo tardio.</li>
+                <li>1.900 g = baixo peso.</li>
+                <li>No cruzamento peso × idade, está abaixo do P10 = PIG.</li>
+                <li>Tratamento materno foi inadequado, pois sífilis de duração ignorada exige três doses.</li>
+                <li>Líquor alterado por celularidade &gt; 25 e proteína &gt; 150.</li>
+                <li>Tratamento: penicilina cristalina endovenosa por 10 dias.</li>
+              </ol>
+            </div>
+          </article>
+        </section>
+
+        <section class="lesson-section" id="fixacao" aria-labelledby="titulo-fixacao">
+          <div class="section-heading">
+            <p>Bloco 6</p>
+            <h2 id="titulo-fixacao">Fixação ativa</h2>
+          </div>
+
+          <div class="flashcards" id="flashcards" aria-label="Flashcards da aula"></div>
+          <div class="quiz" id="quiz" aria-live="polite"></div>
+        </section>
+      </main>
+    </div>
+
+    <aside class="transcript-panel" id="transcript-panel" aria-labelledby="titulo-transcricao" aria-hidden="true">
+      <div class="transcript-header">
+        <div>
+          <p>Fonte integral</p>
+          <h2 id="titulo-transcricao">Transcrição da aula</h2>
+        </div>
+        <button class="icon-button close-transcript" type="button" aria-label="Fechar transcrição">×</button>
+      </div>
+      <label class="search-box">
+        Buscar na transcrição
+        <input id="transcript-search" type="search" placeholder="Ex.: pseudoparalisia, VDRL, PIG">
+      </label>
+      <pre id="transcript-text">Carregando transcrição...</pre>
+    </aside>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="js/app.js" defer></script>
+  </body>
+</html>

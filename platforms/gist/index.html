@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Cirurgia Oncológica — Luxo Puro BauerOS</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.webmanifest">
+</head>
+<body class="dark-mode">
+    <!-- Grade Invisível -->
+    <div class="luxury-grid"></div>
+    
+    <!-- Iluminação Periférica -->
+    <div class="glow teal-glow"></div>
+    <div class="glow gold-glow"></div>
+
+    <!-- HUB CENTRAL: Galeria de Joias -->
+    <div id="hub-container" class="active">
+        <header class="hub-header">
+            <span class="hub-badge">BauerOS • Cirurgia Oncológica</span>
+            <h1 class="hub-title">Módulos de Especialidade</h1>
+            <p class="hub-subtitle">Selecione uma aula para iniciar a imersão artesanal.</p>
+        </header>
+
+        <div class="hub-grid">
+            <div class="lesson-card glass" data-lesson="gist">
+                <div class="card-glow" style="background: var(--gold);"></div>
+                <span class="lesson-id">Módulo 01</span>
+                <h3>GIST Gástrico</h3>
+                <p>O marcapasso mesenquimal e o protocolo CD117+.</p>
+                <div class="card-footer">
+                    <span>7 Páginas</span>
+                    <button class="enter-btn">Entrar</button>
+                </div>
+            </div>
+
+            <div class="lesson-card glass" data-lesson="apendice">
+                <div class="card-glow" style="background: var(--teal);"></div>
+                <span class="lesson-id">Módulo 02</span>
+                <h3>Tumores de Apêndice</h3>
+                <p>Carcinoide, Adenocarcinoma e a bomba de Mucina.</p>
+                <div class="card-footer">
+                    <span>7 Páginas</span>
+                    <button class="enter-btn">Entrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- CONTAINER DA PLATAFORMA (Carregado via JS) -->
+    <div id="lesson-platform" class="hidden">
+        <header class="luxury-header">
+            <div class="brand">
+                <button id="back-to-hub" class="home-btn">⌂</button>
+                <div class="title-group">
+                    <h1 id="platform-title">---</h1>
+                    <p id="platform-subtitle">---</p>
+                </div>
+            </div>
+            <nav class="nav-controls" id="nav-dots">
+                <!-- Injetado via JS -->
+            </nav>
+        </header>
+
+        <main id="platform-content">
+            <!-- Conteúdo da Página Injetado via JS -->
+        </main>
+
+        <footer class="luxury-footer">
+            <button id="prev-btn">Anterior</button>
+            <div class="progress-bar"><div id="progress-fill" class="fill"></div></div>
+            <button id="next-btn">Próxima</button>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
